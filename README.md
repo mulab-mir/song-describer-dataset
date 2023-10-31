@@ -1,6 +1,10 @@
 <div  align="center">
 
 # The Song Describer Dataset: a Corpus of Audio Captions for Music-and-Language Evaluation
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/arXiv-000-<COLOR>.svg)](https://arxiv.org/abs/000)
+![Zenodo doi badge](https://img.shields.io/badge/DOI-000%2Fzenodo.000-blue.svg)
+
 [Ilaria Manco](https://ilariamanco.com/)\*<sup>1,2</sup>,
 [Benno Weck]()\*<sup>3</sup>, 
 [Seungheon Doh]()<sup>4</sup>, 
@@ -17,13 +21,6 @@
 
 <sup>1</sup>  QMUL, <sup>2</sup>  UMG, <sup>3</sup> UPF, <sup>4</sup> KAIST, <sup>5</sup> ByteDance, <sup>6</sup> MILA, <sup>7</sup> UCSD 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-000-<COLOR>.svg)](https://arxiv.org/abs/000)
-![Zenodo doi badge](https://img.shields.io/badge/DOI-000%2Fzenodo.000-blue.svg)
-
-<p align="center">
-<img src="sdd.png" width="500">
-</p align="center">
 </div>
 * equal contribution
 
@@ -34,6 +31,13 @@ This repository contains starter code for the Song Describer Dataset (SDD).
 * [Huggingface]()
 
 ## Dataset overview
+<div align="center">
+  
+https://github.com/ilaria-manco/song-describer-dataset/assets/32579635/31ea7adc-149f-4f16-96af-48fce7a9941a
+  
+*"A retro-futurist drum machine groove drenched in bubbly synthetic sound effects and a hint of an acid bassline."*
+  
+</div>
 
 SDD contains ~1.1k captions for 706 music recordings and can be used to evaluate models that address music-and-language tasks such as music captioning, text-to-music generation and music-language retrieval. More information about the data, collection method and validation is provided in the [data card](datacard.md).
 
