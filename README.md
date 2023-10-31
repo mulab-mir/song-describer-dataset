@@ -7,17 +7,17 @@
 
 [Ilaria Manco](https://ilariamanco.com/)\*<sup>1,2</sup>,
 [Benno Weck]()\*<sup>3</sup>, 
-[Seungheon Doh]()<sup>4</sup>, 
-[Minz Won]()<sup>5</sup>,
-[Yixiao Zhang]()<sup>1</sup>,
-[Dmitry Bogdanov]()<sup>3</sup>, 
-[Yusong Wu]()<sup>6</sup>, 
-[Ke Chen]()<sup>7</sup>, 
-[Philip Tovstogan]()<sup>3</sup>, 
+[Seungheon Doh](https://seungheondoh.github.io/)<sup>4</sup>, 
+[Minz Won](https://minzwon.github.io/)<sup>5</sup>,
+[Yixiao Zhang](http://www.eecs.qmul.ac.uk/~yz007/)<sup>1</sup>,
+[Dmitry Bogdanov](https://dbogdanov.com/)<sup>3</sup>, 
+[Yusong Wu](https://lukewys.github.io/)<sup>6</sup>, 
+[Ke Chen](https://www.knutchen.com/)<sup>7</sup>, 
+[Philip Tovstogan](https://philtgun.me/)<sup>3</sup>, 
 [Emmanouil Benetos](http://www.eecs.qmul.ac.uk/~emmanouilb/)<sup>1</sup>,
 [Elio Quinton](https://scholar.google.com/citations?user=IaciybgAAAAJ)<sup>2</sup>,
 [George Fazekas](http://www.eecs.qmul.ac.uk/~gyorgyf/about.html)<sup>1</sup>,
-[Juhan Nam]()<sup>4</sup><br>
+[Juhan Nam](https://mac.kaist.ac.kr/~juhan/)<sup>4</sup><br>
 
 <sup>1</sup>  QMUL, <sup>2</sup>  UMG, <sup>3</sup> UPF, <sup>4</sup> KAIST, <sup>5</sup> ByteDance, <sup>6</sup> MILA, <sup>7</sup> UCSD 
 
@@ -68,16 +68,23 @@ Then, clone the repository and install the dependencies:
 git clone [todo]
 ```
 
-## Using the dataset
-
 ## Reproducing the analysis in the paper
 The overview statistics presented in the paper can be reproduced via the code in the [`dataset_stats.ipynb`](dataset_stats.ipynb) notebook.
+
+## Using the dataset
+
+[Coming soon]
 
 ## Cite
 If you use the dataset or the code in this repo, please consider citing our work:
 
 ```bib
-[todo]
+@inproceedings{manco2023thesong,
+  title={The Song Describer Dataset: a Corpus of Audio Captions for Music-and-Language Evaluation}, 
+  author={Manco, Ilaria and Weck, Benno and Doh, Seungheon and Won, Minz and Zhang, Yixiao and Bogdanov, Dmitry and Wu, Yusong and Chen, Ke and Tovstogan, Philip and Benetos, Emmanouil and Quinton, Elio and Fazekas, György and Nam, Juhan},
+  booktitle={Machine Learning for Audio Workshop at NeurIPS 2023}, 
+  year={2023},
+}
 ```
 
 ## License
