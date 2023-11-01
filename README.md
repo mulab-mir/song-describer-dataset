@@ -40,7 +40,7 @@ https://github.com/ilaria-manco/song-describer-dataset/assets/32579635/31ea7adc-
   
 </div>
 
-SDD contains ~1.1k captions for 706 music recordings and can be used to evaluate models that address music-and-language tasks such as music captioning, text-to-music generation and music-language retrieval. More information about the data, collection method and validation is provided in the [data card](datacard.md).
+SDD contains ~1.1k captions for 706 permissively licensed music recordings. It is designed for use in evaluation of models that address music-and-language (M&L) tasks such as music captioning, text-to-music generation and music-language retrieval. More information about the data, collection method and validation is provided in the [data card](datacard.md), together with more in-depth documentation in the [datasheet](datasheet.md).
 
 | Subset | Tracks | Captions | Annotators | Cap len (avg) | Vocab size  | Audio len | 
 |:----:|:----:|:-----:|:-----:|:----:|:-----:|:-----:|
@@ -78,8 +78,21 @@ pip install -r requirements.txt
 The overview statistics presented in the paper can be reproduced via the code in the [`dataset_stats.ipynb`](dataset_stats.ipynb) notebook.
 
 ## Using the dataset
-
+### PyTorch
 [Coming soon]
+
+### HuggingFace
+
+```python
+!pip install datasets
+from datasets import load_dataset
+
+ds = load_dataset("mulab-mir/song-describer")
+```
+
+### Benchmarking M&L models with SDD
+
+[coming soon]
 
 ## Cite
 If you use the dataset or the code in this repo, please consider citing our work:
