@@ -1,9 +1,10 @@
 <div  align="center">
 
 # The Song Describer Dataset: a Corpus of Audio Captions for Music-and-Language Evaluation
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-000-<COLOR>.svg)](https://arxiv.org/abs/000)
 ![Zenodo doi badge](https://img.shields.io/badge/DOI-000%2Fzenodo.000-blue.svg)
+[![Huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/mulab-mir/song-describer)
 
 [Ilaria Manco](https://ilariamanco.com/)\*<sup>1,2</sup>,
 [Benno Weck]()\*<sup>3</sup>, 
@@ -48,14 +49,17 @@ SDD contains ~1.1k captions for 706 music recordings and can be used to evaluate
 
 ## Downloading the dataset
 
-The dataset is available to download from Zenodo. Download script [here](download.sh).
+The dataset is available to download from [Zenodo]():
 
 ```bash
-[todo]
+wget [todo]
+unzip [todo]
+cd [todo]
 ```
+A download script is also available [here](download.sh).
 
 ## Code setup
-Create a virtual environment:
+To use this code, we recommend creating a new python3 virtual environment:
 
 ```bash
 python -m venv venv 
@@ -65,7 +69,9 @@ source venv/bin/activate
 Then, clone the repository and install the dependencies:
 
 ```bash
-git clone [todo]
+git clone https://github.com/mulab-mir/song-describer-dataset.git
+cd song-describer-dataset
+pip install -r requirements.txt
 ```
 
 ## Reproducing the analysis in the paper
