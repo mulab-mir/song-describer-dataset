@@ -40,7 +40,7 @@ https://github.com/ilaria-manco/song-describer-dataset/assets/32579635/31ea7adc-
   
 </div>
 
-SDD contains ~1.1k captions for 706 permissively licensed music recordings. It is designed for use in evaluation of models that address music-and-language (M&L) tasks such as music captioning, text-to-music generation and music-language retrieval. More information about the data, collection method and validation is provided in the [data card](datacard.md), together with more in-depth documentation in the [datasheet](datasheet.md).
+SDD contains ~1.1k captions for 706 permissively licensed music recordings. It is designed for use in evaluation of models that address music-and-language (M&L) tasks such as music captioning, text-to-music generation and music-language retrieval. More information about the data, collection method and validation is provided in the [data card](docs/datacard.md), together with more in-depth documentation in the [datasheet](docs/datasheet.md).
 
 | Subset | Tracks | Captions | Annotators | Cap len (avg) | Vocab size  | Audio len | 
 |:----:|:----:|:-----:|:-----:|:----:|:-----:|:-----:|
