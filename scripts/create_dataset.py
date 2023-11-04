@@ -1,15 +1,16 @@
+"""Build the Song Describer Dataset from the data dump files.
+
+The data dump files are the result of the data collection process.
+You'll need to download the data dump files from the Zenodo repository first.
+"""
+
 import csv
 import pandas as pd
 
 
-def read_df(path):
-    df = pd.read_pickle(path)
-    return df
-
-
-def create_csv(data_dump_path):
-    annotations_df = read_df(f"{data_dump_path}/annotations.pickle")
-    validation_df = get_validated_captions(data_dump_path)
+def create_csv(data_path, dataset_csv_path):
+    annotations_df = pd.read_pickle(f"{data_path}/annotations.pickle")
+    validation_df = get_validated_captions(data_path)
     annotations_df = annotations_df.join(
         validation_df.set_index("id"), lsuffix="_left", rsuffix="_right"
     )
@@ -23,8 +24,8 @@ def create_csv(data_dump_path):
         }
     )
     annotations_df.sort_values(by="track_id", inplace=True)
-    annotations_df = add_jamendo_info(annotations_df, f"{data_dump_path}/jamendo.tsv")
-    annotations_df.to_csv(f"{data_dump_path}/song_describer.csv", index=False)
+    annotations_df = add_jamendo_info(annotations_df, f"{data_path}/jamendo.tsv")
+    annotations_df.to_csv(dataset_csv_path, index=False)
     return annotations_df
 
 
@@ -62,8 +63,8 @@ def add_jamendo_info(metadata_df, tsv_file):
     return metadata_df
 
 
-def get_validated_captions(data_dump_path):
-    validation_path = f"{data_dump_path}/validation"
+def get_validated_captions(data_path):
+    validation_path = f"{data_path}/validation"
     col_names = ["id", "track_id", "user_id", "valid"]
     evaluated_dfs = [
         pd.read_csv(f"{validation_path}/evaluated_{i}.csv", header=None)
@@ -77,5 +78,6 @@ def get_validated_captions(data_dump_path):
 
 
 if __name__ == "__main__":
-    data_dump_path = "data/data_dump_14_04_23"
-    create_csv(data_dump_path)
+    data_dump_path = "../data/data_dump_14_04_23"
+    target_path = "../data/song_describer.csv"
+    create_csv(data_dump_path, target_path)

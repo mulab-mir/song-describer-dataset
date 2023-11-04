@@ -1,0 +1,1504 @@
+stem,count,facet,facet_simple,top_facets,mapped
+song,358,Structure,Structure,Structure,"{'song', 'songs'}"
+guitar,251,Instrumentation,Instrumentation,Instrumentation,"{'guitars', 'guitar'}"
+track,162,Structure,Structure,Structure,{'track'}
+vocal,159,Vocals (2),Vocals,Instrumentation,"{'vocal', 'vocalizations', 'vocals'}"
+male,143,Vocals (1),Vocals,Instrumentation,{'male'}
+instrument,141,Structure,Structure,Structure,"{'instrumentals', 'instrument', 'instruments', 'instrumental', 'instrumentation'}"
+piano,127,Instrumentation,Instrumentation,Instrumentation,"{'pianos', 'piano'}"
+drum,109,Instrumentation,Instrumentation,Instrumentation,"{'drumming', 'drums', 'drum'}"
+rock,106,Genre,Genre/Style,Genre/Style,{'rock'}
+music,99,Structure,Structure,Structure,"{'musical', 'musically', 'music'}"
+featur,94,Structure,Structure,Structure,"{'featuring', 'features', 'featured'}"
+feel,81,,Unmapped,Other,"{'feel', 'feels', 'feelings', 'feeling'}"
+synth,81,Instrumentation,Instrumentation,Instrumentation,"{'synthed', 'synth', 'synths'}"
+pop,81,Genre,Genre/Style,Genre/Style,{'pop'}
+voic,79,Vocals (2),Vocals,Instrumentation,"{'voices', 'voice'}"
+electron,78,Texture,Texture,Texture,{'electronic'}
+acoust,78,Texture,Texture,Texture,{'acoustic'}
+sound,74,,Unmapped,Other,"{'sound', 'sounding', 'sounds'}"
+beat,70,,Unmapped,Other,"{'beat', 'beats'}"
+melodi,60,Structure,Structure,Structure,"{'melody', 'melodies'}"
+femal,58,Vocals (1),Vocals,Instrumentation,{'female'}
+play,57,,Unmapped,Other,"{'play', 'playing', 'plays', 'played', 'playful'}"
+piec,55,Structure,Structure,Structure,{'piece'}
+use,49,,Unmapped,Other,"{'use', 'used', 'uses', 'using'}"
+electr,45,Instrumentation,Instrumentation,Instrumentation,{'electric'}
+start,44,Structure,Structure,Structure,"{'start', 'starts', 'starting'}"
+like,44,,Unmapped,Other,"{'likes', 'likely', 'like'}"
+vibe,42,Style,Genre/Style,Genre/Style,"{'vibes', 'vibe'}"
+bass,42,Instrumentation,Instrumentation,Instrumentation,{'bass'}
+energet,39,Mood,Mood,Mood,{'energetic'}
+sing,38,Vocals (2),Vocals,Instrumentation,"{'singed', 'singing', 'sings', 'sing'}"
+solo,37,Structure,Structure,Structure,"{'solo', 'solos'}"
+upbeat,37,Mood,Mood,Mood,{'upbeat'}
+lead,36,Structure,Structure,Structure,"{'lead', 'leads', 'leading'}"
+slow,36,Tempo,Tempo,Other,{'slow'}
+accompani,35,Structure,Structure,Structure,"{'accompanying', 'accompaniment', 'accompany', 'accompanied'}"
+classic,35,Style,Genre/Style,Genre/Style,"{'classic', 'classical', 'classically'}"
+make,35,,Unmapped,Other,"{'making', 'make', 'makes'}"
+french,34,Language,Language,Other,{'french'}
+danc,33,Usage,Usage,Other,"{'dance', 'dancing'}"
+background,33,,Unmapped,Other,{'background'}
+percuss,32,Instrumentation,Instrumentation,Instrumentation,"{'percussion', 'percussive', 'percussions'}"
+give,31,,Unmapped,Other,"{'giving', 'give', 'gives'}"
+singer,31,Vocals (2),Vocals,Instrumentation,"{'singers', 'singer'}"
+relax,30,Mood,Mood,Mood,"{'relax', 'relaxing', 'relaxed'}"
+calm,30,Mood,Mood,Mood,"{'calming', 'calm', 'calmness'}"
+lyric,29,Lyrical content,Lyrical content,Other,"{'lyric', 'lyrical', 'lyrics'}"
+back,28,,Unmapped,Other,"{'backing', 'back', 'backed'}"
+style,28,Style,Genre/Style,Genre/Style,"{'style', 'styles'}"
+string,27,Instrumentation,Instrumentation,Instrumentation,"{'stringed', 'string', 'strings'}"
+posit,26,Mood,Mood,Mood,"{'positive', 'positivity'}"
+riff,26,,Unmapped,Other,"{'riffs', 'riff'}"
+folk,26,Genre,Genre/Style,Genre/Style,{'folk'}
+sad,26,Mood,Mood,Mood,{'sad'}
+chord,25,,Unmapped,Other,"{'chord', 'chords'}"
+happi,25,Mood,Mood,Mood,"{'happiness', 'happy'}"
+jazz,25,Genre,Genre/Style,Genre/Style,{'jazz'}
+rhythm,24,Rhythm,Rhythm,Other,"{'rhythm', 'rhythms'}"
+soft,24,Acoustic qualities,Acoustic qualities,Other,{'soft'}
+ambient,24,Style,Genre/Style,Genre/Style,"{'ambient', 'ambiental'}"
+choru,24,Structure,Structure,Structure,{'chorus'}
+progress,23,,Unmapped,Other,"{'progression', 'progressive', 'progressions', 'progressively', 'progressing', 'progresses'}"
+indi,23,Genre,Genre/Style,Genre/Style,{'indie'}
+listen,23,,Unmapped,Other,"{'listened', 'listening', 'listener', 'listen'}"
+rap,23,Genre,Genre/Style,Genre/Style,"{'rapped', 'rapping', 'rap'}"
+vocalist,23,Vocals (2),Vocals,Instrumentation,{'vocalist'}
+emot,23,,Unmapped,Other,"{'emotionally', 'emotional', 'emotions', 'emotion'}"
+one,22,,Unmapped,Other,{'one'}
+effect,22,Acoustic qualities,Acoustic qualities,Other,"{'effects', 'effect'}"
+base,22,,Unmapped,Other,"{'base', 'based'}"
+simpl,22,,Unmapped,Other,{'simple'}
+tempo,21,Tempo,Tempo,Other,{'tempo'}
+heavi,21,Acoustic qualities,Acoustic qualities,Other,{'heavy'}
+synthes,21,Instrumentation,Instrumentation,Instrumentation,"{'synthesized', 'synthesizers', 'synthesizer'}"
+melod,21,Acoustic qualities,Acoustic qualities,Other,{'melodic'}
+sung,21,,Unmapped,Other,{'sung'}
+catchi,21,Acoustic qualities,Acoustic qualities,Other,{'catchy'}
+build,20,,Unmapped,Other,"{'building', 'builds', 'build'}"
+strong,20,Acoustic qualities,Acoustic qualities,Other,{'strong'}
+repetit,20,,Unmapped,Other,"{'repetitive', 'repetitiveness'}"
+intro,20,Structure,Structure,Structure,{'intro'}
+genr,19,Genre,Genre/Style,Genre/Style,"{'genres', 'genre'}"
+love,19,,Unmapped,Other,"{'loving', 'lovely', 'love'}"
+later,19,,Unmapped,Other,{'later'}
+s,19,,Unmapped,Other,"{""'s""}"
+countri,19,Genre,Genre/Style,Genre/Style,{'country'}
+brass,18,Instrumentation,Instrumentation,Instrumentation,{'brass'}
+distort,18,Acoustic qualities,Acoustic qualities,Other,"{'distortion', 'distorted'}"
+sampl,18,,Unmapped,Other,"{'sampled', 'sample', 'samples'}"
+evok,18,,Unmapped,Other,"{'evoking', 'evokes'}"
+soundtrack,18,Genre,Genre/Style,Genre/Style,{'soundtrack'}
+ballad,18,Style,Genre/Style,Genre/Style,{'ballad'}
+perfect,18,,Unmapped,Other,{'perfect'}
+drive,18,,Unmapped,Other,"{'drive', 'driving'}"
+live,17,,Unmapped,Other,"{'living', 'lively', 'live'}"
+hope,17,Mood,Mood,Mood,"{'hopefully', 'hopeful', 'hope'}"
+violin,17,Instrumentation,Instrumentation,Instrumentation,"{'violins', 'violin'}"
+spanish,17,Language,Language,Other,{'spanish'}
+fast,16,Tempo,Tempo,Other,{'fast'}
+movi,16,Usage,Usage,Other,"{'movie', 'movies'}"
+perform,16,,Unmapped,Other,"{'performs', 'performed', 'performance', 'performing'}"
+blue,15,Genre,Genre/Style,Genre/Style,"{'blue', 'blues'}"
+metal,15,Genre,Genre/Style,Genre/Style,"{'metallic', 'metal'}"
+latin,15,Style,Genre/Style,Genre/Style,{'latin'}
+section,15,,Unmapped,Other,"{'sections', 'section'}"
+sens,15,,Unmapped,Other,{'sense'}
+joy,14,Mood,Mood,Mood,"{'joy', 'joyful'}"
+element,14,,Unmapped,Other,"{'element', 'elements'}"
+tune,14,,Unmapped,Other,"{'tuned', 'tune'}"
+organ,14,,Unmapped,Other,"{'organic', 'organs', 'organ'}"
+melanchol,14,Mood,Mood,Mood,"{'melancholic', 'melancholically'}"
+consist,13,,Unmapped,Other,"{'consisting', 'consists', 'consistent', 'consistently'}"
+altern,13,,Unmapped,Other,"{'alternate', 'alternative'}"
+could,13,,Unmapped,Other,{'could'}
+harmoni,13,Acoustic qualities ,Acoustic qualities,Other,"{'harmoniously', 'harmonies', 'harmonious'}"
+hip-hop,13,Genre,Genre/Style,Genre/Style,{'hip-hop'}
+regga,13,Genre,Genre/Style,Genre/Style,{'reggae'}
+get,12,,Unmapped,Other,"{'gets', 'getting', 'get'}"
+clap,12,Instrumentation,Instrumentation,Instrumentation,"{'claps', 'clapping', 'clap'}"
+promin,12,,Unmapped,Other,{'prominent'}
+romant,12,,Unmapped,Other,{'romantic'}
+dreami,12,,Unmapped,Other,{'dreamy'}
+dynam,12,,Unmapped,Other,"{'dynamic', 'dynamics'}"
+well,12,,Unmapped,Other,{'well'}
+trumpet,12,Genre,Genre/Style,Genre/Style,"{'trumpets', 'trumpet'}"
+uplift,11,Mood,Mood,Mood,"{'uplifts', 'uplifting'}"
+along,11,,Unmapped,Other,{'along'}
+funki,11,Style,Genre/Style,Genre/Style,{'funky'}
+clean,11,,Unmapped,Other,"{'cleaning', 'clean'}"
+line,11,,Unmapped,Other,"{'lines', 'line'}"
+sooth,11,,Unmapped,Other,{'soothing'}
+layer,11,,Unmapped,Other,"{'layered', 'layering', 'layers'}"
+fun,11,Mood,Mood,Mood,{'fun'}
+modern,11,,Unmapped,Other,{'modern'}
+peac,11,Mood,Mood,Mood,"{'peace', 'peaceful'}"
+mellow,11,Mood,Mood,Mood,{'mellow'}
+mysteri,11,Mood,Mood,Mood,"{'mystery', 'mysterious'}"
+top,11,,Unmapped,Other,{'top'}
+throughout,10,Structure,Structure,Structure,{'throughout'}
+english,10,Language,Language,Other,{'english'}
+want,10,,Unmapped,Other,{'want'}
+end,10,,Unmapped,Other,"{'end', 'ending'}"
+mood,10,Mood,Mood,Mood,{'mood'}
+game,10,,Unmapped,Other,"{'games', 'game'}"
+orchestr,10,,Unmapped,Other,{'orchestral'}
+90,10,Era,Era,Other,"{'90s', '90'}"
+follow,10,,Unmapped,Other,{'followed'}
+remind,10,,Unmapped,Other,"{'reminds', 'remind'}"
+convey,10,,Unmapped,Other,"{'convey', 'conveys'}"
+jazzi,10,Style,Genre/Style,Genre/Style,{'jazzy'}
+hop,10,,Unmapped,Other,{'hop'}
+vers,10,Lyrical content,Lyrical content,Other,"{'verse', 'verses'}"
+mostli,10,,Unmapped,Other,{'mostly'}
+man,10,,Unmapped,Other,{'man'}
+flute,10,Instrumentation,Instrumentation,Instrumentation,"{'flute', 'flutes'}"
+bar,10,Structure,Structure,Structure,"{'bars', 'bar'}"
+accordion,10,Instrumentation,Instrumentation,Instrumentation,"{'accordions', 'accordion'}"
+set,9,,Unmapped,Other,"{'setting', 'set'}"
+danceabl,9,,Unmapped,Other,"{'danceability', 'danceable'}"
+someth,9,,Unmapped,Other,{'something'}
+open,9,,Unmapped,Other,"{'opens', 'opening', 'open'}"
+experiment,9,,Unmapped,Other,{'experimental'}
+chill,9,,Unmapped,Other,"{'chill', 'chilled', 'chilling'}"
+dramat,9,,Unmapped,Other,{'dramatic'}
+choir,9,Vocals (1),Vocals,Instrumentation,"{'choirs', 'choir'}"
+support,9,,Unmapped,Other,"{'supported', 'support', 'supporting'}"
+variou,9,,Unmapped,Other,{'various'}
+harmonica,9,Instrumentation,Instrumentation,Instrumentation,{'harmonica'}
+edm,9,Genre,Genre/Style,Genre/Style,{'edm'}
+ad,9,,Unmapped,Other,"{'adding', 'added'}"
+fast-pac,9,Tempo,Tempo,Other,{'fast-paced'}
+film,9,Usage,Usage,Other,{'film'}
+influenc,8,,Unmapped,Other,"{'influences', 'influence', 'influenced'}"
+bright,8,,Unmapped,Other,{'bright'}
+atmospher,8,,Unmapped,Other,"{'atmosphere', 'atmospheric'}"
+synthet,8,,Unmapped,Other,{'synthetic'}
+bluesi,8,Style,Genre/Style,Genre/Style,{'bluesy'}
+;,8,,Unmapped,Other,{';'}
+nostalg,8,,Unmapped,Other,{'nostalgic'}
+pad,8,Instrumentation,Instrumentation,Instrumentation,"{'pads', 'pad'}"
+pick,8,,Unmapped,Other,"{'picked', 'picking', 'picks'}"
+smooth,8,,Unmapped,Other,{'smooth'}
+high,8,,Unmapped,Other,{'high'}
+join,8,,Unmapped,Other,"{'joined', 'joins', 'join'}"
+natur,8,,Unmapped,Other,"{'nature', 'natural'}"
+pleasant,8,,Unmapped,Other,{'pleasant'}
+bell,8,Instrumentation,Instrumentation,Instrumentation,"{'bell', 'bells'}"
+keyboard,8,Instrumentation,Instrumentation,Instrumentation,"{'keyboards', 'keyboard'}"
+warm,8,Acoustic qualities,Acoustic qualities,Other,{'warm'}
+dark,8,Acoustic qualities,Acoustic qualities,Other,{'dark'}
+repeat,7,,Unmapped,Other,"{'repeat', 'repeating', 'repeated', 'repeats'}"
+middl,7,,Unmapped,Other,{'middle'}
+creat,7,,Unmapped,Other,"{'creating', 'create', 'creates'}"
+video,7,,Unmapped,Other,{'video'}
+echo,7,,Unmapped,Other,"{'echo', 'echoes', 'echoing'}"
+note,7,,Unmapped,Other,{'notes'}
+),7,,Unmapped,Other,{')'}
+strum,7,,Unmapped,Other,"{'strummed', 'strumming'}"
+band,7,,Unmapped,Other,{'band'}
+punk,7,Genre,Genre/Style,Genre/Style,{'punk'}
+move,7,,Unmapped,Other,"{'moves', 'moving'}"
+someon,7,,Unmapped,Other,{'someone'}
+intim,7,,Unmapped,Other,{'intimate'}
+combin,7,,Unmapped,Other,"{'combination', 'combines', 'combine'}"
+tone,7,,Unmapped,Other,{'tone'}
+summer,7,,Unmapped,Other,"{'summers', 'summer'}"
+hip,7,,Unmapped,Other,{'hip'}
+club,7,,Unmapped,Other,"{'club', 'clubs'}"
+begin,7,,Unmapped,Other,"{'beginning', 'begin', 'begins'}"
+techno,7,Genre,Genre/Style,Genre/Style,{'techno'}
+ska,7,Genre,Genre/Style,Genre/Style,{'ska'}
+come,7,,Unmapped,Other,"{'comes', 'coming', 'come'}"
+slightli,7,,Unmapped,Other,{'slightly'}
+sentiment,7,,Unmapped,Other,{'sentimental'}
+christma,7,Genre,Genre/Style,Genre/Style,{'christmas'}
+seem,7,,Unmapped,Other,{'seems'}
+pace,7,,Unmapped,Other,"{'pace', 'paced'}"
+arrang,7,,Unmapped,Other,"{'arrangements', 'arrangement'}"
+tension,7,,Unmapped,Other,{'tension'}
+slide,7,,Unmapped,Other,{'slide'}
+mix,7,,Unmapped,Other,"{'mix', 'mixed'}"
+lot,7,,Unmapped,Other,"{'lot', 'lots'}"
+typic,7,,Unmapped,Other,{'typical'}
+futurist,7,,Unmapped,Other,{'futuristic'}
+heard,6,,Unmapped,Other,{'heard'}
+suitabl,6,,Unmapped,Other,{'suitable'}
+way,6,,Unmapped,Other,{'way'}
+two,6,,Unmapped,Other,{'two'}
+reminisc,6,,Unmapped,Other,{'reminiscent'}
+go,6,,Unmapped,Other,{'going'}
+cinemat,6,Mood,Mood,Mood,{'cinematic'}
+kind,6,,Unmapped,Other,{'kind'}
+part,6,,Unmapped,Other,"{'part', 'parts'}"
+intens,6,,Unmapped,Other,"{'intense', 'intensity'}"
+machin,6,,Unmapped,Other,{'machine'}
+hand,6,,Unmapped,Other,{'hand'}
+bit,6,,Unmapped,Other,{'bit'}
+(,6,,Unmapped,Other,{'('}
+2000,6,Era,Era,Other,"{'2000s', '2000'}"
+time,6,,Unmapped,Other,"{'times', 'time'}"
+african,6,,Unmapped,Other,{'african'}
+b,6,,Unmapped,Other,{'b'}
+big,6,,Unmapped,Other,{'big'}
+energi,6,,Unmapped,Other,{'energy'}
+head,6,,Unmapped,Other,{'head'}
+light,6,,Unmapped,Other,"{'light', 'lightful'}"
+around,6,,Unmapped,Other,{'around'}
+gentl,6,,Unmapped,Other,{'gentle'}
+reverber,6,Acoustic qualities,Acoustic qualities,Other,"{'reverberant', 'reverberated'}"
+power,6,,Unmapped,Other,"{'power', 'powerful'}"
+theme,6,,Unmapped,Other,"{'themes', 'theming', 'themed', 'theme'}"
+finger,6,,Unmapped,Other,{'finger'}
+moodi,6,,Unmapped,Other,{'moody'}
+night,6,,Unmapped,Other,{'night'}
+kick,6,Instrumentation,Instrumentation,Instrumentation,"{'kicks', 'kick'}"
+snare,6,Instrumentation,Instrumentation,Instrumentation,"{'snares', 'snare'}"
+american,6,,Unmapped,Other,{'american'}
+scream,6,Vocals (1),Vocals,Instrumentation,"{'scream', 'screaming', 'screams'}"
+optimist,5,Mood,Mood,Mood,{'optimistic'}
+speak,5,,Unmapped,Other,{'speaking'}
+children,5,,Unmapped,Other,{'children'}
+’,5,,Unmapped,Other,{'’'}
+occasion,5,,Unmapped,Other,{'occasional'}
+delay,5,Acoustic qualities,Acoustic qualities,Other,"{'delayed', 'delay'}"
+groov,5,,Unmapped,Other,"{'groove', 'grooving'}"
+woman,5,,Unmapped,Other,{'woman'}
+trip,5,,Unmapped,Other,{'trip'}
+singer-songwrit,5,Genre,Genre/Style,Genre/Style,{'singer-songwriter'}
+record,5,,Unmapped,Other,"{'recorded', 'recording'}"
+loop,5,,Unmapped,Other,"{'looping', 'loops', 'loop'}"
+epic,5,,Unmapped,Other,{'epic'}
+deepli,5,,Unmapped,Other,{'deeply'}
+run,5,,Unmapped,Other,"{'running', 'runs', 'run'}"
+ether,5,,Unmapped,Other,{'ethereal'}
+space,5,,Unmapped,Other,{'space'}
+raspi,5,,Unmapped,Other,{'raspy'}
+morn,5,,Unmapped,Other,{'morning'}
+quickli,5,,Unmapped,Other,{'quickly'}
+would,5,,Unmapped,Other,{'would'}
+quit,5,,Unmapped,Other,{'quite'}
+&,5,,Unmapped,Other,{'&'}
+chang,5,,Unmapped,Other,"{'change', 'changed', 'changes'}"
+rhythmic,5,Rhythm,Rhythm,Other,"{'rhythmic', 'rhythmical'}"
+ukulel,5,Instrumentation,Instrumentation,Instrumentation,{'ukulele'}
+ukelel,5,Instrumentation,Instrumentation,Instrumentation,{'ukelele'}
+medit,5,,Unmapped,Other,"{'meditative', 'meditations', 'meditating'}"
+swing,5,Style,Genre/Style,Genre/Style,"{'swinging', 'swing'}"
+saxophon,5,Instrumentation,Instrumentation,Instrumentation,"{'saxophones', 'saxophone'}"
+good,5,,Unmapped,Other,{'good'}
+electro,5,,Unmapped,Other,{'electro'}
+80,5,Era,Era,Other,"{'80s', '80'}"
+dull,5,,Unmapped,Other,{'dull'}
+introspect,5,,Unmapped,Other,"{'introspection', 'introspective'}"
+jam,5,,Unmapped,Other,"{'jam', 'jamming'}"
+2010,5,Era,Era,Other,"{'2010s', '2010'}"
+made,5,,Unmapped,Other,{'made'}
+work,5,,Unmapped,Other,"{'working', 'work'}"
+basslin,5,,Unmapped,Other,{'bassline'}
+compos,5,,Unmapped,Other,{'composed'}
+pattern,5,,Unmapped,Other,"{'pattern', 'patterns'}"
+mainli,5,,Unmapped,Other,{'mainly'}
+punchi,5,,Unmapped,Other,{'punchy'}
+without,5,,Unmapped,Other,{'without'}
+casual,4,,Unmapped,Other,{'casual'}
+day,4,,Unmapped,Other,{'day'}
+/,4,,Unmapped,Other,{'/'}
+hum,4,,Unmapped,Other,{'humming'}
+talk,4,,Unmapped,Other,"{'talks', 'talking'}"
+sinist,4,,Unmapped,Other,{'sinister'}
+convers,4,,Unmapped,Other,{'conversation'}
+scene,4,,Unmapped,Other,"{'scene', 'scenes'}"
+ideal,4,,Unmapped,Other,{'ideal'}
+full,4,,Unmapped,Other,{'full'}
+arpeggio,4,,Unmapped,Other,"{'arpeggio', 'arpeggios'}"
+inspir,4,,Unmapped,Other,"{'inspired', 'inspiring', 'inspirational'}"
+motif,4,,Unmapped,Other,"{'motif', 'motifs'}"
+sensat,4,,Unmapped,Other,{'sensation'}
+orchestra,4,,Unmapped,Other,{'orchestra'}
+world,4,,Unmapped,Other,{'world'}
+continu,4,,Unmapped,Other,"{'continually', 'continuing', 'continues'}"
+groovi,4,,Unmapped,Other,{'groovy'}
+long,4,,Unmapped,Other,"{'longing', 'long'}"
+haunt,4,,Unmapped,Other,"{'haunted', 'haunting'}"
+quiet,4,,Unmapped,Other,{'quiet'}
+whisper,4,,Unmapped,Other,"{'whispered', 'whispering'}"
+contain,4,,Unmapped,Other,"{'contained', 'containing', 'contains'}"
+heavili,4,,Unmapped,Other,{'heavily'}
+suspens,4,,Unmapped,Other,"{'suspense', 'suspenseful'}"
+slow-pac,4,,Unmapped,Other,{'slow-paced'}
+express,4,,Unmapped,Other,"{'expressiveness', 'expressive'}"
+product,4,,Unmapped,Other,"{'products', 'production', 'product'}"
+arpeggi,4,,Unmapped,Other,{'arpeggiated'}
+hous,4,,Unmapped,Other,{'house'}
+adventur,4,,Unmapped,Other,"{'adventurous', 'adventure'}"
+duet,4,,Unmapped,Other,{'duet'}
+cheer,4,,Unmapped,Other,"{'cheer', 'cheerful'}"
+keep,4,,Unmapped,Other,"{'keep', 'keeping'}"
+turn,4,,Unmapped,Other,{'turns'}
+excit,4,,Unmapped,Other,{'exciting'}
+cafe,4,Usage,Usage,Other,{'cafe'}
+sweet,4,,Unmapped,Other,{'sweet'}
+xylophon,4,Instrumentation,Instrumentation,Instrumentation,{'xylophone'}
+thing,4,,Unmapped,Other,{'things'}
+enjoy,4,,Unmapped,Other,"{'enjoying', 'enjoyable', 'enjoy'}"
+pop-rock,4,Genre,Genre/Style,Genre/Style,{'pop-rock'}
+also,4,,Unmapped,Other,{'also'}
+happen,4,,Unmapped,Other,"{'happening', 'happen'}"
+beauti,4,,Unmapped,Other,"{'beautiful', 'beautifully'}"
+gradual,4,,Unmapped,Other,{'gradually'}
+rapper,4,,Unmapped,Other,"{'rapper', 'rappers'}"
+r,4,,Unmapped,Other,{'r'}
+provid,4,,Unmapped,Other,"{'providing', 'provides', 'provide'}"
+high-pitch,4,,Unmapped,Other,"{'high-pitch', 'high-pitched'}"
+slowli,4,,Unmapped,Other,{'slowly'}
+horn,4,Instrumentation,Instrumentation,Instrumentation,"{'horns', 'horn'}"
+even,4,,Unmapped,Other,"{'even', 'evening'}"
+harmon,4,,Unmapped,Other,"{'harmonic', 'harmonized'}"
+midi,4,,Unmapped,Other,{'midi'}
+tabla,4,Instrumentation,Instrumentation,Instrumentation,{'tabla'}
+60,4,Era,Era,Other,"{'60s', '60'}"
+new,4,,Unmapped,Other,{'new'}
+textur,4,Texture,Texture,Texture,"{'texture', 'textures', 'textured'}"
+salsa,4,Genre,Genre/Style,Genre/Style,{'salsa'}
+possibl,3,,Unmapped,Other,{'possibly'}
+afternoon,3,,Unmapped,Other,{'afternoon'}
+roll,3,,Unmapped,Other,{'roll'}
+lick,3,,Unmapped,Other,{'licks'}
+whistl,3,,Unmapped,Other,"{'whistling', 'whistle', 'whistles'}"
+main,3,,Unmapped,Other,{'main'}
+wobbl,3,,Unmapped,Other,"{'wobble', 'wobbly'}"
+crisp,3,,Unmapped,Other,{'crisp'}
+post,3,,Unmapped,Other,{'post'}
+rythm,3,,Unmapped,Other,{'rythm'}
+room,3,,Unmapped,Other,{'room'}
+bring,3,,Unmapped,Other,"{'bring', 'brings'}"
+young,3,,Unmapped,Other,{'young'}
+shop,3,,Unmapped,Other,"{'shopping', 'shop'}"
+steadi,3,,Unmapped,Other,{'steady'}
+break,3,,Unmapped,Other,{'break'}
+driven,3,,Unmapped,Other,{'driven'}
+ternari,3,,Unmapped,Other,{'ternary'}
+tribal,3,,Unmapped,Other,{'tribal'}
+road,3,,Unmapped,Other,{'road'}
+eurod,3,,Unmapped,Other,{'eurodance'}
+probabl,3,,Unmapped,Other,{'probably'}
+foreground,3,,Unmapped,Other,{'foreground'}
+carri,3,,Unmapped,Other,"{'carrying', 'carried', 'carries'}"
+languag,3,,Unmapped,Other,{'language'}
+littl,3,,Unmapped,Other,{'little'}
+eleg,3,,Unmapped,Other,{'elegant'}
+drumkit,3,Instrumentation,Instrumentation,Instrumentation,{'drumkit'}
+pretti,3,,Unmapped,Other,{'pretty'}
+touch,3,,Unmapped,Other,{'touch'}
+spacey,3,,Unmapped,Other,{'spacey'}
+intrigu,3,,Unmapped,Other,"{'intriguing', 'intrigue'}"
+leav,3,,Unmapped,Other,{'leaves'}
+earli,3,,Unmapped,Other,{'early'}
+deep,3,,Unmapped,Other,{'deep'}
+reverb,3,,Unmapped,Other,"{'reverb', 'reverbered'}"
+compon,3,,Unmapped,Other,"{'components', 'component'}"
+studi,3,,Unmapped,Other,"{'studying', 'study'}"
+omin,3,,Unmapped,Other,{'ominous'}
+stori,3,,Unmapped,Other,{'story'}
+waltz,3,,Unmapped,Other,{'waltz'}
+shake,3,,Unmapped,Other,{'shake'}
+comp,3,,Unmapped,Other,"{'comp', 'comping'}"
+dancefloor,3,,Unmapped,Other,{'dancefloor'}
+evoc,3,,Unmapped,Other,{'evocative'}
+primarili,3,,Unmapped,Other,{'primarily'}
+key,3,,Unmapped,Other,"{'keys', 'key'}"
+anxiou,3,,Unmapped,Other,{'anxious'}
+glockenspiel,3,,Unmapped,Other,{'glockenspiel'}
+type,3,,Unmapped,Other,{'type'}
+suit,3,,Unmapped,Other,{'suited'}
+drop,3,,Unmapped,Other,"{'dropping', 'drops', 'drop'}"
+suggest,3,,Unmapped,Other,"{'suggests', 'suggest', 'suggestive'}"
+syncop,3,,Unmapped,Other,"{'syncopation', 'syncopated'}"
+bounci,3,,Unmapped,Other,{'bouncy'}
+drink,3,,Unmapped,Other,"{'drink', 'drinking'}"
+innoc,3,,Unmapped,Other,"{'innocence', 'innocent'}"
+great,3,,Unmapped,Other,{'great'}
+spiritu,3,,Unmapped,Other,{'spiritual'}
+magic,3,,Unmapped,Other,{'magical'}
+trap,3,,Unmapped,Other,"{'trapped', 'trap'}"
+solid,3,,Unmapped,Other,{'solid'}
+loud,3,,Unmapped,Other,{'loud'}
+composit,3,,Unmapped,Other,{'composition'}
+yet,3,,Unmapped,Other,{'yet'}
+soundscap,3,,Unmapped,Other,{'soundscape'}
+moment,3,,Unmapped,Other,{'moment'}
+accent,3,,Unmapped,Other,"{'accented', 'accent'}"
+saw,3,,Unmapped,Other,"{'saw', 'saws'}"
+hurt,3,,Unmapped,Other,{'hurt'}
+commerci,3,,Unmapped,Other,{'commercial'}
+laid,3,,Unmapped,Other,{'laid'}
+desir,3,,Unmapped,Other,"{'desires', 'desire'}"
+chopin,3,,Unmapped,Other,{'chopin'}
+home,3,,Unmapped,Other,{'home'}
+alon,3,,Unmapped,Other,{'alone'}
+flamenco,3,,Unmapped,Other,{'flamenco'}
+lush,3,,Unmapped,Other,{'lush'}
+salient,3,,Unmapped,Other,{'salient'}
+downtempo,3,,Unmapped,Other,{'downtempo'}
+gener,3,,Unmapped,Other,"{'generation', 'generic'}"
+tradit,3,,Unmapped,Other,{'traditional'}
+low,3,,Unmapped,Other,{'low'}
+8-bit,3,,Unmapped,Other,{'8-bit'}
+cosi,3,,Unmapped,Other,{'cosy'}
+usual,3,,Unmapped,Other,"{'usual', 'usually'}"
+nova,3,,Unmapped,Other,{'nova'}
+subtl,3,,Unmapped,Other,{'subtle'}
+bongo,3,,Unmapped,Other,"{'bongo', 'bongos'}"
+4,3,,Unmapped,Other,{'4'}
+mid,3,,Unmapped,Other,{'mid'}
+tranc,3,,Unmapped,Other,{'trance'}
+old,3,,Unmapped,Other,{'old'}
+doubl,3,,Unmapped,Other,"{'double', 'doubled'}"
+-,3,,Unmapped,Other,{'-'}
+reggaeton,3,,Unmapped,Other,{'reggaeton'}
+indian,3,,Unmapped,Other,{'indian'}
+shaker,3,,Unmapped,Other,"{'shakers', 'shaker'}"
+minimalist,3,,Unmapped,Other,"{'minimalist', 'minimalistic'}"
+period,3,,Unmapped,Other,{'period'}
+second,3,,Unmapped,Other,"{'seconds', 'second'}"
+samba,3,,Unmapped,Other,{'samba'}
+duo,3,,Unmapped,Other,{'duo'}
+seren,3,,Unmapped,Other,"{'serene', 'serenity'}"
+raw,3,,Unmapped,Other,{'raw'}
+stereo,3,,Unmapped,Other,{'stereo'}
+rather,3,,Unmapped,Other,{'rather'}
+western,3,,Unmapped,Other,"{'westerns', 'western'}"
+major,3,,Unmapped,Other,{'major'}
+evolv,3,,Unmapped,Other,{'evolves'}
+asian,3,,Unmapped,Other,{'asian'}
+show,3,,Unmapped,Other,{'show'}
+think,3,,Unmapped,Other,{'think'}
+supplement,2,,Unmapped,Other,"{'supplemented', 'supplement'}"
+tea,2,,Unmapped,Other,{'tea'}
+sunni,2,,Unmapped,Other,{'sunny'}
+closer,2,,Unmapped,Other,{'closer'}
+british,2,,Unmapped,Other,{'british'}
+final,2,,Unmapped,Other,"{'final', 'finally'}"
+charact,2,,Unmapped,Other,{'character'}
+cyberpunk,2,,Unmapped,Other,{'cyberpunk'}
+credit,2,,Unmapped,Other,{'credits'}
+heartfelt,2,,Unmapped,Other,{'heartfelt'}
+emerg,2,,Unmapped,Other,{'emerges'}
+warbl,2,,Unmapped,Other,"{'warbly', 'warbling'}"
+girl,2,,Unmapped,Other,"{'girl', 'girls'}"
+dream,2,,Unmapped,Other,"{'dream', 'dreaming'}"
+alt,2,,Unmapped,Other,{'alt'}
+wist,2,,Unmapped,Other,{'wistful'}
+led,2,,Unmapped,Other,{'led'}
+mid-tempo,2,,Unmapped,Other,{'mid-tempo'}
+sever,2,,Unmapped,Other,{'several'}
+montag,2,,Unmapped,Other,{'montage'}
+obo,2,,Unmapped,Other,"{'oboes', 'oboe'}"
+triumphant,2,,Unmapped,Other,{'triumphant'}
+ethnic,2,,Unmapped,Other,{'ethnic'}
+journey,2,,Unmapped,Other,{'journey'}
+protagonist,2,,Unmapped,Other,{'protagonist'}
+memori,2,,Unmapped,Other,{'memory'}
+amateur,2,,Unmapped,Other,{'amateur'}
+funk,2,,Unmapped,Other,{'funk'}
+noisi,2,,Unmapped,Other,{'noisy'}
+orient,2,,Unmapped,Other,{'oriental'}
+pure,2,,Unmapped,Other,"{'purely', 'pure'}"
+nois,2,,Unmapped,Other,{'noises'}
+audienc,2,,Unmapped,Other,{'audience'}
+electronica,2,,Unmapped,Other,{'electronica'}
+slight,2,,Unmapped,Other,{'slight'}
+entri,2,,Unmapped,Other,{'entry'}
+pitch,2,,Unmapped,Other,"{'pitched', 'pitch'}"
+walk,2,,Unmapped,Other,"{'walking', 'walk'}"
+perfectli,2,,Unmapped,Other,{'perfectly'}
+synthi,2,,Unmapped,Other,{'synthy'}
+autotun,2,Acoustic qualities,Acoustic qualities,Other,"{'autotune', 'autotuned'}"
+cheesi,2,,Unmapped,Other,{'cheesy'}
+complex,2,,Unmapped,Other,{'complex'}
+harsh,2,,Unmapped,Other,{'harsh'}
+garag,2,,Unmapped,Other,{'garage'}
+transit,2,,Unmapped,Other,"{'transition', 'transitions'}"
+sign,2,,Unmapped,Other,{'signing'}
+retro,2,,Unmapped,Other,{'retro'}
+tell,2,,Unmapped,Other,"{'telling', 'tells'}"
+memor,2,,Unmapped,Other,{'memorable'}
+fantasi,2,,Unmapped,Other,{'fantasy'}
+late-night,2,,Unmapped,Other,{'late-night'}
+pluck,2,,Unmapped,Other,"{'plucking', 'plucked'}"
+remov,2,,Unmapped,Other,"{'remove', 'removed'}"
+direct,2,,Unmapped,Other,{'direction'}
+spin,2,,Unmapped,Other,"{'spinning', 'spin'}"
+floor,2,,Unmapped,Other,{'floor'}
+feet,2,,Unmapped,Other,{'feet'}
+contemporari,2,,Unmapped,Other,{'contemporary'}
+etc,2,,Unmapped,Other,{'etc'}
+sure,2,,Unmapped,Other,"{'surely', 'sure'}"
+concert,2,,Unmapped,Other,{'concert'}
+wide,2,,Unmapped,Other,{'wide'}
+let,2,,Unmapped,Other,"{'letting', 'lets'}"
+bittersweet,2,,Unmapped,Other,{'bittersweet'}
+contempl,2,,Unmapped,Other,"{'contemplative', 'contemplate'}"
+level,2,,Unmapped,Other,{'level'}
+felt,2,,Unmapped,Other,{'felt'}
+m,2,,Unmapped,Other,"{""'m""}"
+wait,2,,Unmapped,Other,{'waiting'}
+fragil,2,,Unmapped,Other,"{'fragility', 'fragile'}"
+relationship,2,,Unmapped,Other,{'relationship'}
+initi,2,,Unmapped,Other,{'initially'}
+appear,2,,Unmapped,Other,"{'appearances', 'appears'}"
+re,2,,Unmapped,Other,"{""'re""}"
+rise,2,,Unmapped,Other,{'rising'}
+digit,2,,Unmapped,Other,{'digital'}
+teenag,2,,Unmapped,Other,"{'teenager', 'teenage'}"
+drama,2,,Unmapped,Other,{'drama'}
+event,2,,Unmapped,Other,{'event'}
+pan,2,,Unmapped,Other,"{'panning', 'pan'}"
+close,2,,Unmapped,Other,{'close'}
+``,2,,Unmapped,Other,{'``'}
+',2,,Unmapped,Other,"{""''""}"
+bridg,2,,Unmapped,Other,{'bridge'}
+cruis,2,,Unmapped,Other,"{'cruise', 'cruising'}"
+number,2,,Unmapped,Other,{'number'}
+persist,2,,Unmapped,Other,{'persistent'}
+differ,2,,Unmapped,Other,{'different'}
+sequenc,2,,Unmapped,Other,{'sequence'}
+focus,2,,Unmapped,Other,"{'focused', 'focusing'}"
+bounc,2,,Unmapped,Other,"{'bouncing', 'bounce'}"
+childish,2,,Unmapped,Other,{'childish'}
+sang,2,,Unmapped,Other,{'sang'}
+tens,2,,Unmapped,Other,{'tense'}
+sleepi,2,,Unmapped,Other,{'sleepy'}
+goe,2,,Unmapped,Other,{'goes'}
+delic,2,,Unmapped,Other,"{'delicately', 'delicate'}"
+basic,2,,Unmapped,Other,{'basic'}
+plu,2,,Unmapped,Other,{'plus'}
+loung,2,,Unmapped,Other,{'lounge'}
+explicit,2,,Unmapped,Other,{'explicit'}
+structur,2,,Unmapped,Other,"{'structure', 'structures'}"
+bubbl,2,,Unmapped,Other,{'bubbly'}
+hi-hat,2,,Unmapped,Other,{'hi-hat'}
+charg,2,,Unmapped,Other,{'charged'}
+ambianc,2,,Unmapped,Other,{'ambiance'}
+electropop,2,,Unmapped,Other,{'electropop'}
+eastern,2,,Unmapped,Other,{'eastern'}
+european,2,,Unmapped,Other,{'european'}
+parti,2,,Unmapped,Other,{'party'}
+anthem,2,,Unmapped,Other,"{'anthem', 'anthems'}"
+interlud,2,,Unmapped,Other,{'interlude'}
+ballet,2,,Unmapped,Other,{'ballet'}
+depress,2,,Unmapped,Other,"{'depressive', 'depressed'}"
+bob,2,,Unmapped,Other,{'bob'}
+anguish,2,,Unmapped,Other,"{'anguish', 'anguished'}"
+poppi,2,,Unmapped,Other,{'poppy'}
+brit,2,,Unmapped,Other,{'brit'}
+pump,2,,Unmapped,Other,"{'pumping', 'pumped'}"
+put,2,,Unmapped,Other,{'put'}
+dialogu,2,,Unmapped,Other,{'dialogue'}
+air,2,,Unmapped,Other,{'air'}
+beach,2,,Unmapped,Other,{'beach'}
+car,2,,Unmapped,Other,{'car'}
+deliveri,2,,Unmapped,Other,{'delivery'}
+match,2,,Unmapped,Other,"{'match', 'matched'}"
+attitud,2,,Unmapped,Other,{'attitude'}
+vulner,2,,Unmapped,Other,{'vulnerability'}
+richer,2,,Unmapped,Other,{'richer'}
+nasal,2,,Unmapped,Other,{'nasal'}
+refrain,2,,Unmapped,Other,{'refrain'}
+folki,2,,Unmapped,Other,{'folky'}
+individu,2,,Unmapped,Other,"{'individual', 'individually'}"
+challeng,2,,Unmapped,Other,"{'challenging', 'challenge'}"
+scale,2,,Unmapped,Other,"{'scale', 'scales'}"
+shini,2,,Unmapped,Other,{'shiny'}
+march,2,,Unmapped,Other,"{'march', 'marching'}"
+ensembl,2,,Unmapped,Other,{'ensemble'}
+bossa,2,,Unmapped,Other,{'bossa'}
+nice,2,,Unmapped,Other,{'nice'}
+first,2,,Unmapped,Other,{'first'}
+enthusiast,2,,Unmapped,Other,{'enthusiastic'}
+counter,2,,Unmapped,Other,"{'counter', 'counters'}"
+easi,2,,Unmapped,Other,{'easy'}
+loos,2,,Unmapped,Other,"{'loosely', 'loose'}"
+sway,2,,Unmapped,Other,{'swaying'}
+process,2,,Unmapped,Other,"{'processed', 'processing'}"
+lullabi,2,,Unmapped,Other,{'lullaby'}
+carol,2,,Unmapped,Other,{'carol'}
+thank,2,,Unmapped,Other,{'thanks'}
+triumph,2,,Unmapped,Other,{'triumph'}
+peopl,2,,Unmapped,Other,{'people'}
+half-spoken,2,,Unmapped,Other,{'half-spoken'}
+mute,2,,Unmapped,Other,{'muted'}
+place,2,,Unmapped,Other,{'place'}
+brazilian,2,,Unmapped,Other,{'brazilian'}
+arab,2,,Unmapped,Other,{'arabic'}
+flow,2,,Unmapped,Other,{'flow'}
+singl,2,,Unmapped,Other,{'single'}
+arabesqu,2,,Unmapped,Other,{'arabesque'}
+sci,2,,Unmapped,Other,{'sci'}
+fi,2,,Unmapped,Other,{'fi'}
+kid,2,,Unmapped,Other,"{'kids', 'kid'}"
+tambourin,2,,Unmapped,Other,{'tambourine'}
+rubberi,2,,Unmapped,Other,{'rubbery'}
+person,2,,Unmapped,Other,"{'personal', 'person'}"
+polit,2,,Unmapped,Other,{'political'}
+weird,2,,Unmapped,Other,{'weird'}
+guttur,2,,Unmapped,Other,{'guttural'}
+say,2,,Unmapped,Other,"{'says', 'say'}"
+either,2,,Unmapped,Other,{'either'}
+stay,2,,Unmapped,Other,"{'staying', 'stays'}"
+raini,2,,Unmapped,Other,{'rainy'}
+pizzicato,2,,Unmapped,Other,{'pizzicato'}
+librari,2,,Unmapped,Other,{'library'}
+symphoni,2,,Unmapped,Other,{'symphony'}
+mourn,2,,Unmapped,Other,{'mournful'}
+larg,2,,Unmapped,Other,{'large'}
+desert,2,,Unmapped,Other,{'desert'}
+toward,2,,Unmapped,Other,{'towards'}
+domin,2,,Unmapped,Other,"{'dominated', 'dominant'}"
+nylon,2,,Unmapped,Other,{'nylon'}
+mystic,2,,Unmapped,Other,{'mystical'}
+descend,2,,Unmapped,Other,{'descending'}
+eeri,2,,Unmapped,Other,{'eerie'}
+growl,2,,Unmapped,Other,"{'growling', 'growls'}"
+aggress,2,,Unmapped,Other,{'aggressive'}
+invok,2,,Unmapped,Other,"{'invokes', 'invoking'}"
+strang,2,,Unmapped,Other,{'strange'}
+fireplac,2,,Unmapped,Other,{'fireplace'}
+disson,2,,Unmapped,Other,{'dissonant'}
+add,2,,Unmapped,Other,{'adds'}
+synthwav,2,,Unmapped,Other,{'synthwave'}
+gruff,2,,Unmapped,Other,{'gruff'}
+environ,2,,Unmapped,Other,"{'environments', 'environment'}"
+invit,2,,Unmapped,Other,{'invites'}
+latino,2,,Unmapped,Other,{'latino'}
+djemb,2,,Unmapped,Other,{'djembe'}
+cumbia,2,,Unmapped,Other,{'cumbia'}
+lament,2,,Unmapped,Other,"{'lament', 'lamenting'}"
+busi,2,,Unmapped,Other,{'busy'}
+sit,2,,Unmapped,Other,"{'sitting', 'sit'}"
+grand,2,,Unmapped,Other,{'grand'}
+find,2,,Unmapped,Other,{'find'}
+solemn,2,,Unmapped,Other,{'solemn'}
+pronounc,2,,Unmapped,Other,{'pronounced'}
+might,2,,Unmapped,Other,{'might'}
+non-voc,2,,Unmapped,Other,{'non-vocal'}
+four-on-the-floor,2,,Unmapped,Other,{'four-on-the-floor'}
+discord,2,,Unmapped,Other,{'discordant'}
+specif,2,,Unmapped,Other,"{'specifically', 'specific'}"
+ambienc,2,,Unmapped,Other,{'ambience'}
+lean,2,,Unmapped,Other,{'leaning'}
+underpin,2,,Unmapped,Other,"{'underpin', 'underpinned'}"
+folk-rock,2,Genre,Genre/Style,Genre/Style,{'folk-rock'}
+sometim,2,,Unmapped,Other,{'sometimes'}
+glass,2,,Unmapped,Other,{'glass'}
+wine,2,,Unmapped,Other,{'wine'}
+minor,2,,Unmapped,Other,{'minor'}
+nervou,2,,Unmapped,Other,{'nervous'}
+jump,2,,Unmapped,Other,"{'jumps', 'jump'}"
+except,2,,Unmapped,Other,{'except'}
+guy,2,,Unmapped,Other,"{'guys', 'guy'}"
+fill,2,,Unmapped,Other,"{'filled', 'fill'}"
+noth,2,,Unmapped,Other,{'nothing'}
+falsetto,2,,Unmapped,Other,"{'falsetto', 'falsettos'}"
+cajon,2,,Unmapped,Other,{'cajon'}
+float,2,,Unmapped,Other,{'floating'}
+sitar,2,,Unmapped,Other,{'sitar'}
+banjo,2,,Unmapped,Other,"{'banjo', 'banjos'}"
+appeal,2,,Unmapped,Other,{'appealing'}
+constant,1,,Unmapped,Other,{'constant'}
+right,1,,Unmapped,Other,{'right'}
+away,1,,Unmapped,Other,{'away'}
+choppi,1,,Unmapped,Other,{'choppy'}
+beat-heavi,1,,Unmapped,Other,{'beat-heavy'}
+rich,1,,Unmapped,Other,{'rich'}
+sustain,1,,Unmapped,Other,{'sustained'}
+point,1,,Unmapped,Other,{'point'}
+stop,1,,Unmapped,Other,{'stops'}
+rain,1,,Unmapped,Other,{'rain'}
+70,1,Era,Era,Other,{'70s'}
+almost,1,,Unmapped,Other,{'almost'}
+doomsday,1,,Unmapped,Other,{'doomsday'}
+apocalyps,1,,Unmapped,Other,{'apocalypse'}
+misteri,1,,Unmapped,Other,{'misterious'}
+divers,1,,Unmapped,Other,{'diverse'}
+sci-fi,1,,Unmapped,Other,{'sci-fi'}
+wua-wua,1,,Unmapped,Other,{'wua-wua'}
+smoki,1,,Unmapped,Other,{'smoky'}
+america,1,,Unmapped,Other,{'america'}
+war,1,,Unmapped,Other,{'war'}
+battl,1,,Unmapped,Other,{'battle'}
+dri,1,,Unmapped,Other,{'dry'}
+overtak,1,,Unmapped,Other,{'overtakes'}
+rimshot-heavi,1,,Unmapped,Other,{'rimshot-heavy'}
+real,1,,Unmapped,Other,{'real'}
+musician,1,,Unmapped,Other,{'musicians'}
+country-pop,1,Genre,Genre/Style,Genre/Style,{'country-pop'}
+jaunti,1,,Unmapped,Other,{'jaunty'}
+uncompl,1,,Unmapped,Other,{'uncomplicated'}
+nostalgia,1,,Unmapped,Other,{'nostalgia'}
+disillus,1,,Unmapped,Other,{'disillusioned'}
+detail,1,,Unmapped,Other,{'detailing'}
+yosemit,1,,Unmapped,Other,{'yosemite'}
+metaphor,1,,Unmapped,Other,{'metaphorical'}
+isol,1,,Unmapped,Other,{'isolation'}
+country-ting,1,Style,Genre/Style,Genre/Style,{'country-tinged'}
+rock-styl,1,Style,Genre/Style,Genre/Style,{'rock-style'}
+profession,1,,Unmapped,Other,{'professional'}
+session,1,,Unmapped,Other,{'session'}
+emo,1,,Unmapped,Other,{'emo'}
+trite,1,,Unmapped,Other,{'trite'}
+hear,1,,Unmapped,Other,{'hear'}
+coffe,1,,Unmapped,Other,{'coffee'}
+mic,1,,Unmapped,Other,{'mic'}
+technolog,1,,Unmapped,Other,{'technological'}
+shimmer,1,,Unmapped,Other,{'shimmering'}
+word,1,,Unmapped,Other,{'words'}
+beat-bas,1,,Unmapped,Other,{'beat-based'}
+protagonist-gets-good-at-x,1,,Unmapped,Other,{'protagonist-gets-good-at-x'}
+cello,1,,Unmapped,Other,{'cello'}
+calmli,1,,Unmapped,Other,{'calmly'}
+arriv,1,,Unmapped,Other,{'arrives'}
+crescendo,1,,Unmapped,Other,{'crescendo'}
+symphon,1,,Unmapped,Other,{'symphonic'}
+announc,1,,Unmapped,Other,{'announces'}
+undertak,1,,Unmapped,Other,{'undertake'}
+post-apocalypt,1,,Unmapped,Other,{'post-apocalyptic'}
+sax,1,,Unmapped,Other,{'sax'}
+three,1,,Unmapped,Other,{'three'}
+oh,1,,Unmapped,Other,{'oh'}
+school,1,,Unmapped,Other,{'school'}
+univers,1,,Unmapped,Other,{'universally'}
+familiar,1,,Unmapped,Other,{'familiar'}
+perhap,1,,Unmapped,Other,{'perhaps'}
+sent,1,,Unmapped,Other,{'sent'}
+e-card,1,,Unmapped,Other,{'e-card'}
+theirselv,1,,Unmapped,Other,{'theirselves'}
+slavic,1,,Unmapped,Other,{'slavic'}
+order,1,,Unmapped,Other,{'order'}
+cleanli,1,,Unmapped,Other,{'cleanliness'}
+water,1,,Unmapped,Other,{'water'}
+pop/rock,1,,Unmapped,Other,{'pop/rock'}
+pair,1,,Unmapped,Other,{'paired'}
+echoey,1,,Unmapped,Other,{'echoey'}
+whini,1,,Unmapped,Other,{'whiny'}
+e.g.,1,,Unmapped,Other,{'e.g.'}
+ocean,1,,Unmapped,Other,{'oceans'}
+horizon,1,,Unmapped,Other,{'horizons'}
+averag,1,,Unmapped,Other,{'average'}
+sync,1,,Unmapped,Other,{'sync'}
+small,1,,Unmapped,Other,{'small'}
+self,1,,Unmapped,Other,{'self'}
+blip,1,,Unmapped,Other,{'blips'}
+german-languag,1,,Unmapped,Other,{'german-language'}
+disco,1,,Unmapped,Other,{'disco'}
+polish,1,,Unmapped,Other,{'polished'}
+potenti,1,,Unmapped,Other,{'potentially'}
+ear-worm,1,,Unmapped,Other,{'ear-worm'}
+hit,1,,Unmapped,Other,{'hit'}
+lunch,1,,Unmapped,Other,{'lunch'}
+dispit,1,,Unmapped,Other,{'dispite'}
+upheat,1,,Unmapped,Other,{'upheat'}
+jazzy/r,1,,Unmapped,Other,{'jazzy/r'}
+boatload,1,,Unmapped,Other,{'boatload'}
+rock-influenc,1,,Unmapped,Other,{'rock-influenced'}
+psychedelia,1,,Unmapped,Other,{'psychedelia'}
+regular,1,,Unmapped,Other,{'regular'}
+chromat,1,,Unmapped,Other,{'chromatism'}
+crunchi,1,,Unmapped,Other,{'crunchy'}
+up-tempo,1,,Unmapped,Other,{'up-tempo'}
+verbos,1,,Unmapped,Other,{'verbose'}
+help,1,,Unmapped,Other,{'help'}
+although,1,,Unmapped,Other,{'although'}
+reli,1,,Unmapped,Other,{'relies'}
+expect,1,,Unmapped,Other,{'expectations'}
+ahead,1,,Unmapped,Other,{'ahead'}
+french-languag,1,,Unmapped,Other,{'french-language'}
+medium,1,,Unmapped,Other,{'medium'}
+opposit,1,,Unmapped,Other,{'opposite'}
+class,1,,Unmapped,Other,{'class'}
+n,1,,Unmapped,Other,{'n'}
+hard,1,,Unmapped,Other,{'hard'}
+develop,1,,Unmapped,Other,{'develops'}
+unsettl,1,,Unmapped,Other,{'unsettling'}
+trendi,1,,Unmapped,Other,{'trendy'}
+dirti,1,,Unmapped,Other,{'dirty'}
+easili,1,,Unmapped,Other,{'easily'}
+shaki,1,,Unmapped,Other,{'shaky'}
+cook,1,,Unmapped,Other,{'cooking'}
+exercis,1,,Unmapped,Other,{'exercising'}
+frantic,1,,Unmapped,Other,{'frantic'}
+central,1,,Unmapped,Other,{'central'}
+imagin,1,,Unmapped,Other,{'imagining'}
+green,1,,Unmapped,Other,{'green'}
+landscap,1,,Unmapped,Other,{'landscape'}
+us,1,,Unmapped,Other,{'us'}
+meander,1,,Unmapped,Other,{'meandering'}
+that,1,,Unmapped,Other,{'thats'}
+snappi,1,,Unmapped,Other,{'snappy'}
+encount,1,,Unmapped,Other,{'encounter'}
+stuff,1,,Unmapped,Other,{'stuff'}
+neoclass,1,,Unmapped,Other,{'neoclassical'}
+fit,1,,Unmapped,Other,{'fit'}
+bitter-sweet,1,,Unmapped,Other,{'bitter-sweet'}
+texa,1,,Unmapped,Other,{'texas'}
+farm,1,,Unmapped,Other,{'farm'}
+sunset,1,,Unmapped,Other,{'sunset'}
+anim,1,,Unmapped,Other,{'animals'}
+folk/indi,1,,Unmapped,Other,{'folk/indie'}
+common,1,,Unmapped,Other,{'common'}
+lift,1,,Unmapped,Other,{'lifting'}
+whether,1,,Unmapped,Other,{'whether'}
+numer,1,,Unmapped,Other,{'numeric'}
+immatur,1,,Unmapped,Other,{'immature'}
+overus,1,,Unmapped,Other,{'overuse'}
+synthpop,1,,Unmapped,Other,{'synthpop'}
+stutter,1,,Unmapped,Other,{'stuttering'}
+festiv,1,,Unmapped,Other,{'festival'}
+similar,1,,Unmapped,Other,{'similar'}
+santur,1,,Unmapped,Other,{'santur'}
+high-energi,1,,Unmapped,Other,{'high-energy'}
+draw,1,,Unmapped,Other,{'draws'}
+proto-punk,1,,Unmapped,Other,{'proto-punk'}
+shout,1,,Unmapped,Other,{'shouting'}
+enigmat,1,,Unmapped,Other,{'enigmatic'}
+slur,1,,Unmapped,Other,{'slurred'}
+step,1,,Unmapped,Other,{'step'}
+onto,1,,Unmapped,Other,{'onto'}
+sip,1,,Unmapped,Other,{'sip'}
+hawaiian,1,,Unmapped,Other,{'hawaiian'}
+shirt,1,,Unmapped,Other,{'shirt'}
+breez,1,,Unmapped,Other,{'breeze'}
+st.tropez,1,,Unmapped,Other,{'st.tropez'}
+string-l,1,,Unmapped,Other,{'string-led'}
+grow,1,,Unmapped,Other,{'grows'}
+statur,1,,Unmapped,Other,{'stature'}
+respond,1,,Unmapped,Other,{'responding'}
+lazili,1,,Unmapped,Other,{'lazily'}
+varianc,1,,Unmapped,Other,{'variance'}
+veloc,1,,Unmapped,Other,{'velocity'}
+romantic,1,,Unmapped,Other,{'romanticism'}
+uncomfort,1,,Unmapped,Other,{'uncomfortable'}
+tenor,1,,Unmapped,Other,{'tenor'}
+religi,1,,Unmapped,Other,{'religious'}
+curios,1,,Unmapped,Other,{'curiosity'}
+spacial,1,,Unmapped,Other,{'spacial'}
+project,1,,Unmapped,Other,{'projection'}
+underton,1,,Unmapped,Other,{'undertones'}
+overal,1,,Unmapped,Other,{'overall'}
+hotel,1,,Unmapped,Other,{'hotel'}
+rendit,1,,Unmapped,Other,{'rendition'}
+hate,1,,Unmapped,Other,{'hate'}
+braggadocio,1,,Unmapped,Other,{'braggadocios'}
+loopabl,1,,Unmapped,Other,{'loopable'}
+cycl,1,,Unmapped,Other,{'cycle'}
+interspers,1,,Unmapped,Other,{'interspersed'}
+blend,1,,Unmapped,Other,{'blend'}
+overlap,1,,Unmapped,Other,{'overlap'}
+intertwin,1,,Unmapped,Other,{'intertwine'}
+unwind,1,,Unmapped,Other,{'unwinding'}
+poignant,1,,Unmapped,Other,{'poignant'}
+reflect,1,,Unmapped,Other,{'reflective'}
+10,1,,Unmapped,Other,{'10s'}
+discothequ,1,,Unmapped,Other,{'discotheque'}
+samba-infus,1,,Unmapped,Other,{'samba-infused'}
+infecti,1,,Unmapped,Other,{'infectious'}
+summertim,1,,Unmapped,Other,{'summertime'}
+qualiti,1,,Unmapped,Other,{'qualities'}
+celtic,1,,Unmapped,Other,{'celtic'}
+harp-lik,1,,Unmapped,Other,{'harp-like'}
+laidback,1,,Unmapped,Other,{'laidback'}
+wavi,1,,Unmapped,Other,{'wavy'}
+especi,1,,Unmapped,Other,{'especially'}
+un-notic,1,,Unmapped,Other,{'un-noticeable'}
+absenc,1,,Unmapped,Other,{'absence'}
+mixtur,1,,Unmapped,Other,{'mixture'}
+includ,1,,Unmapped,Other,{'including'}
+beatbox,1,,Unmapped,Other,{'beatbox'}
+form,1,,Unmapped,Other,{'form'}
+alright,1,,Unmapped,Other,{'alright'}
+lightli,1,,Unmapped,Other,{'lightly'}
+automat,1,,Unmapped,Other,{'automatic'}
+d,1,,Unmapped,Other,"{""'d""}"
+lesson,1,,Unmapped,Other,{'lessons'}
+commercial-sound,1,,Unmapped,Other,{'commercial-sounding'}
+spacey-sound,1,,Unmapped,Other,{'spacey-sounding'}
+arythm,1,,Unmapped,Other,{'arythmic'}
+piano-back,1,,Unmapped,Other,{'piano-backed'}
+may,1,,Unmapped,Other,{'may'}
+lifetim,1,,Unmapped,Other,{'lifetime'}
+origin,1,,Unmapped,Other,{'original'}
+son,1,,Unmapped,Other,{'son'}
+embellish,1,,Unmapped,Other,{'embellishments'}
+sparkl,1,,Unmapped,Other,{'sparkling'}
+worldli,1,,Unmapped,Other,{'worldly'}
+conga,1,,Unmapped,Other,{'conga'}
+noir,1,,Unmapped,Other,{'noir'}
+rock-solo,1,,Unmapped,Other,{'rock-solo'}
+medium-pac,1,,Unmapped,Other,{'medium-paced'}
+edm-styl,1,,Unmapped,Other,{'edm-style'}
+chorus-lik,1,,Unmapped,Other,{'chorus-like'}
+tropic,1,,Unmapped,Other,{'tropic'}
+back-beat,1,,Unmapped,Other,{'back-beat'}
+halfway,1,,Unmapped,Other,{'halfway'}
+introduc,1,,Unmapped,Other,{'introduces'}
+cadenc,1,,Unmapped,Other,{'cadence'}
+snap,1,,Unmapped,Other,{'snapping'}
+snarki,1,,Unmapped,Other,{'snarky'}
+chorus,1,,Unmapped,Other,{'chorused'}
+alt-rock,1,,Unmapped,Other,{'alt-rock'}
+full-band,1,,Unmapped,Other,{'full-band'}
+new-era,1,,Unmapped,Other,{'new-era'}
+meter,1,,Unmapped,Other,{'meter'}
+afterward,1,,Unmapped,Other,{'afterwards'}
+troubl,1,,Unmapped,Other,{'troubled'}
+interlac,1,,Unmapped,Other,{'interlacing'}
+throw,1,,Unmapped,Other,{'throws'}
+safeti,1,,Unmapped,Other,{'safety'}
+determined,1,,Unmapped,Other,{'determinedness'}
+rock-pop,1,,Unmapped,Other,{'rock-pop'}
+daw,1,,Unmapped,Other,{'daw'}
+due,1,,Unmapped,Other,{'due'}
+wonder,1,,Unmapped,Other,{'wonderfully'}
+grunge-lik,1,,Unmapped,Other,{'grunge-like'}
+gallop,1,,Unmapped,Other,{'galloping'}
+thu,1,,Unmapped,Other,{'thus'}
+drumstick,1,,Unmapped,Other,{'drumstick'}
+countdown,1,,Unmapped,Other,{'countdown'}
+pop/,1,,Unmapped,Other,{'pop/'}
+tire,1,,Unmapped,Other,{'tired'}
+bore,1,,Unmapped,Other,{'boring'}
+behind,1,,Unmapped,Other,{'behind'}
+clapl,1,,Unmapped,Other,{'clapls'}
+1970,1,,Unmapped,Other,{'1970s'}
+gospel,1,,Unmapped,Other,{'gospel'}
+arcad,1,,Unmapped,Other,{'arcade'}
+saloon,1,,Unmapped,Other,{'saloons'}
+reverb-heavi,1,,Unmapped,Other,{'reverb-heavy'}
+easy-listen,1,,Unmapped,Other,{'easy-listening'}
+saxophone-lik,1,,Unmapped,Other,{'saxophone-like'}
+particular,1,,Unmapped,Other,{'particular'}
+fear,1,,Unmapped,Other,{'fear'}
+coupl,1,,Unmapped,Other,{'couple'}
+reconcil,1,,Unmapped,Other,{'reconciled'}
+hardship,1,,Unmapped,Other,{'hardships'}
+portuguese-spoken,1,,Unmapped,Other,{'portuguese-spoken'}
+duduk,1,,Unmapped,Other,{'duduk'}
+east,1,,Unmapped,Other,{'east'}
+sinc,1,,Unmapped,Other,{'since'}
+fairli,1,,Unmapped,Other,{'fairly'}
+wah,1,,Unmapped,Other,{'wah'}
+pedal,1,,Unmapped,Other,{'pedal'}
+four,1,,Unmapped,Other,{'four'}
+pentaton,1,,Unmapped,Other,{'pentatonic'}
+monoton,1,,Unmapped,Other,{'monotonic'}
+medieval-sound,1,,Unmapped,Other,{'medieval-sounding'}
+downbeat,1,,Unmapped,Other,{'downbeats'}
+situat,1,,Unmapped,Other,{'situation'}
+call,1,,Unmapped,Other,{'call'}
+smile,1,,Unmapped,Other,{'smile'}
+face,1,,Unmapped,Other,{'face'}
+electirc,1,,Unmapped,Other,{'electirc'}
+group,1,,Unmapped,Other,{'group'}
+well-reverb,1,,Unmapped,Other,{'well-reverbed'}
+ask,1,,Unmapped,Other,{'ask'}
+predomin,1,,Unmapped,Other,{'predominant'}
+4/4,1,,Unmapped,Other,{'4/4'}
+banger,1,,Unmapped,Other,{'banger'}
+hook,1,,Unmapped,Other,{'hook'}
+women,1,,Unmapped,Other,{'women'}
+emphat,1,,Unmapped,Other,{'emphatic'}
+antagon,1,,Unmapped,Other,{'antagonism'}
+activ,1,,Unmapped,Other,{'active'}
+harmonis,1,,Unmapped,Other,{'harmonised'}
+serv,1,,Unmapped,Other,{'serve'}
+doo,1,,Unmapped,Other,{'doo'}
+wop,1,,Unmapped,Other,{'wop'}
+stage,1,,Unmapped,Other,{'stage'}
+corrobor,1,,Unmapped,Other,{'corroborate'}
+soar,1,,Unmapped,Other,{'soaring'}
+faster,1,,Unmapped,Other,{'faster'}
+encourag,1,,Unmapped,Other,{'encouraging'}
+hammond,1,,Unmapped,Other,{'hammond'}
+guitar-bas,1,,Unmapped,Other,{'guitar-based'}
+3/4,1,,Unmapped,Other,{'3/4'}
+caus,1,,Unmapped,Other,{'caused'}
+octav,1,,Unmapped,Other,{'octave'}
+inform,1,,Unmapped,Other,{'informative'}
+campaign,1,,Unmapped,Other,{'campaign'}
+dinner,1,,Unmapped,Other,{'dinner'}
+date,1,,Unmapped,Other,{'date'}
+gin,1,,Unmapped,Other,{'gin'}
+pool,1,,Unmapped,Other,{'pool'}
+gentli,1,,Unmapped,Other,{'gently'}
+ahh,1,,Unmapped,Other,{'ahhs'}
+high-bpm,1,,Unmapped,Other,{'high-bpm'}
+enter,1,,Unmapped,Other,{'entering'}
+mansion,1,,Unmapped,Other,{'mansion'}
+villag,1,,Unmapped,Other,{'village'}
+ost,1,,Unmapped,Other,{'ost'}
+london,1,,Unmapped,Other,{'london'}
+fog,1,,Unmapped,Other,{'fog'}
+quartet,1,,Unmapped,Other,{'quartet'}
+café,1,,Unmapped,Other,{'café'}
+whisperi,1,,Unmapped,Other,{'whispery'}
+excess,1,,Unmapped,Other,{'excessive'}
+cymbal,1,,Unmapped,Other,{'cymbal'}
+less,1,,Unmapped,Other,{'less'}
+intellectu,1,,Unmapped,Other,{'intellectual'}
+radio,1,,Unmapped,Other,{'radio'}
+singer-song,1,,Unmapped,Other,{'singer-song'}
+writer,1,,Unmapped,Other,{'writer'}
+look,1,,Unmapped,Other,{'look'}
+vintag,1,,Unmapped,Other,{'vintage'}
+louder,1,,Unmapped,Other,{'louder'}
+forward,1,,Unmapped,Other,{'forward'}
+wind,1,,Unmapped,Other,{'wind'}
+fagot,1,,Unmapped,Other,{'fagots'}
+endang,1,,Unmapped,Other,{'endangered'}
+vampir,1,,Unmapped,Other,{'vampire'}
+castl,1,,Unmapped,Other,{'castle'}
+enrich,1,,Unmapped,Other,{'enriched'}
+robot-lik,1,,Unmapped,Other,{'robot-like'}
+avoid,1,,Unmapped,Other,{'avoid'}
+neck,1,,Unmapped,Other,{'neck'}
+loopi,1,,Unmapped,Other,{'loopy'}
+circu,1,,Unmapped,Other,{'circus'}
+younger,1,,Unmapped,Other,{'younger'}
+synth-heavi,1,,Unmapped,Other,{'synth-heavy'}
+urban,1,,Unmapped,Other,{'urban'}
+synthesis,1,,Unmapped,Other,{'synthesised'}
+hiphop,1,,Unmapped,Other,{'hiphop'}
+citi,1,,Unmapped,Other,{'city'}
+expens,1,,Unmapped,Other,{'expensive'}
+indian/arab-sound,1,,Unmapped,Other,{'indian/arab-sounding'}
+orlean,1,,Unmapped,Other,{'orleans'}
+hood,1,,Unmapped,Other,{'hood'}
+soul,1,,Unmapped,Other,{'soul'}
+tremend,1,,Unmapped,Other,{'tremendous'}
+rastafarian,1,,Unmapped,Other,{'rastafarian'}
+produc,1,,Unmapped,Other,{'produced'}
+togeth,1,,Unmapped,Other,{'together'}
+humor,1,,Unmapped,Other,{'humorous'}
+agil,1,,Unmapped,Other,{'agile'}
+compar,1,,Unmapped,Other,{'compared'}
+whimsic,1,,Unmapped,Other,{'whimsical'}
+wood,1,,Unmapped,Other,{'woods'}
+finish,1,,Unmapped,Other,{'finish'}
+resembl,1,,Unmapped,Other,{'resemble'}
+siren,1,,Unmapped,Other,{'siren'}
+chillout,1,,Unmapped,Other,{'chillout'}
+distors,1,,Unmapped,Other,{'distorsion'}
+power-pop,1,,Unmapped,Other,{'power-pop'}
+idiosyncraci,1,,Unmapped,Other,{'idiosyncracies'}
+backward,1,,Unmapped,Other,{'backwards'}
+robot,1,,Unmapped,Other,{'robotic'}
+regist,1,,Unmapped,Other,{'register'}
+characterist,1,,Unmapped,Other,{'characteristic'}
+flourish,1,,Unmapped,Other,{'flourishes'}
+backdrop,1,,Unmapped,Other,{'backdrop'}
+messag,1,,Unmapped,Other,{'message'}
+confus,1,,Unmapped,Other,{'confused'}
+allur,1,,Unmapped,Other,{'alluring'}
+quietli,1,,Unmapped,Other,{'quietly'}
+becom,1,,Unmapped,Other,{'becomes'}
+angri,1,,Unmapped,Other,{'angry'}
+radio/tv,1,,Unmapped,Other,{'radio/tv'}
+rock/met,1,,Unmapped,Other,{'rock/metal'}
+gym,1,,Unmapped,Other,{'gym'}
+anger,1,,Unmapped,Other,{'anger'}
+morph,1,,Unmapped,Other,{'morphing'}
+art,1,,Unmapped,Other,{'art'}
+phrase,1,,Unmapped,Other,{'phrase'}
+intensifi,1,,Unmapped,Other,{'intensify'}
+trance-pop,1,,Unmapped,Other,{'trance-pop'}
+buzzy-sound,1,,Unmapped,Other,{'buzzy-sounding'}
+low-key,1,,Unmapped,Other,{'low-key'}
+amateurish,1,,Unmapped,Other,{'amateurish'}
+slow-tempo,1,,Unmapped,Other,{'slow-tempo'}
+paus,1,,Unmapped,Other,{'paused'}
+jangli,1,,Unmapped,Other,{'jangly'}
+etheri,1,,Unmapped,Other,{'etherial'}
+fingerpick,1,,Unmapped,Other,{'fingerpicking'}
+fingerstyl,1,,Unmapped,Other,{'fingerstyle'}
+revers,1,,Unmapped,Other,{'reversed'}
+thought,1,,Unmapped,Other,{'thoughtful'}
+guitar-folk,1,,Unmapped,Other,{'guitar-folk'}
+vibraphon,1,,Unmapped,Other,{'vibraphone'}
+yearn,1,,Unmapped,Other,{'yearning'}
+woodwind,1,,Unmapped,Other,{'woodwind'}
+harp,1,,Unmapped,Other,{'harp'}
+recal,1,,Unmapped,Other,{'recalls'}
+movement,1,,Unmapped,Other,{'movement'}
+mahler,1,,Unmapped,Other,{'mahler'}
+envelop,1,,Unmapped,Other,{'enveloping'}
+dirg,1,,Unmapped,Other,{'dirge'}
+lack,1,,Unmapped,Other,{'lack'}
+documentari,1,,Unmapped,Other,{'documentary'}
+folk/post-rock,1,,Unmapped,Other,{'folk/post-rock'}
+lone,1,,Unmapped,Other,{'lonely'}
+travel,1,,Unmapped,Other,{'traveler'}
+greet,1,,Unmapped,Other,{'greets'}
+visitor,1,,Unmapped,Other,{'visitor'}
+stroke,1,,Unmapped,Other,{'strokes'}
+energ,1,,Unmapped,Other,{'energizing'}
+crawl,1,,Unmapped,Other,{'crawling'}
+mississippi,1,,Unmapped,Other,{'mississippi'}
+cat,1,,Unmapped,Other,{'cats'}
+funni,1,,Unmapped,Other,{'funny'}
+meow,1,,Unmapped,Other,{'meow'}
+pianola,1,,Unmapped,Other,{'pianola'}
+seduct,1,,Unmapped,Other,{'seductive'}
+lose,1,,Unmapped,Other,{'losing'}
+lover,1,,Unmapped,Other,{'lover'}
+expans,1,,Unmapped,Other,{'expansive'}
+essenc,1,,Unmapped,Other,{'essence'}
+hastili,1,,Unmapped,Other,{'hastily'}
+melancholi,1,,Unmapped,Other,{'melancholy'}
+half,1,,Unmapped,Other,{'half'}
+dnb,1,,Unmapped,Other,{'dnb'}
+thump,1,,Unmapped,Other,{'thumping'}
+whe,1,,Unmapped,Other,{'whe'}
+breakbeat,1,,Unmapped,Other,{'breakbeat'}
+30,1,,Unmapped,Other,{'30'}
+explod,1,,Unmapped,Other,{'exploding'}
+colour,1,,Unmapped,Other,{'colourful'}
+burst,1,,Unmapped,Other,{'burst'}
+maraca,1,,Unmapped,Other,{'maracas'}
+despit,1,,Unmapped,Other,{'despite'}
+bosa,1,,Unmapped,Other,{'bosa'}
+flavour,1,,Unmapped,Other,{'flavour'}
+swoosh,1,,Unmapped,Other,{'swooshes'}
+happy-go-lucki,1,,Unmapped,Other,{'happy-go-lucky'}
+bass-lin,1,,Unmapped,Other,{'bass-line'}
+breezi,1,,Unmapped,Other,{'breezy'}
+mall,1,,Unmapped,Other,{'mall'}
+tourist,1,,Unmapped,Other,{'tourist'}
+piano-guitar,1,,Unmapped,Other,{'piano-guitar'}
+deliv,1,,Unmapped,Other,{'delivers'}
+half-sung,1,,Unmapped,Other,{'half-sung'}
+struggl,1,,Unmapped,Other,{'struggle'}
+free,1,,Unmapped,Other,{'free'}
+passiv,1,,Unmapped,Other,{'passive'}
+cyber,1,,Unmapped,Other,{'cyber'}
+fuzzi,1,,Unmapped,Other,{'fuzzy'}
+dampen,1,,Unmapped,Other,{'dampened'}
+brighten,1,,Unmapped,Other,{'brightens'}
+death,1,,Unmapped,Other,{'death'}
+utilis,1,,Unmapped,Other,{'utilises'}
+imageri,1,,Unmapped,Other,{'imagery'}
+chain,1,,Unmapped,Other,{'chain'}
+scratchi,1,,Unmapped,Other,{'scratchy'}
+platform,1,,Unmapped,Other,{'platform'}
+transmit,1,,Unmapped,Other,{'transmits'}
+modul,1,,Unmapped,Other,{'modulate'}
+overtim,1,,Unmapped,Other,{'overtime'}
+3-for-2,1,,Unmapped,Other,{'3-for-2'}
+passag,1,,Unmapped,Other,{'passages'}
+uniqu,1,,Unmapped,Other,{'unique'}
+drawl,1,,Unmapped,Other,{'drawling'}
+cool,1,,Unmapped,Other,{'cool'}
+quirki,1,,Unmapped,Other,{'quirky'}
+edg,1,,Unmapped,Other,{'edge'}
+vagu,1,,Unmapped,Other,{'vaguely'}
+rapping-ish,1,,Unmapped,Other,{'rapping-ish'}
+blues-rock,1,,Unmapped,Other,{'blues-rock'}
+spaghetti,1,,Unmapped,Other,{'spaghetti'}
+hoars,1,,Unmapped,Other,{'hoarse'}
+out-of-sync,1,,Unmapped,Other,{'out-of-sync'}
+hispan,1,,Unmapped,Other,{'hispanic'}
+sort,1,,Unmapped,Other,{'sort'}
+mariachi,1,,Unmapped,Other,{'mariachi'}
+bailabl,1,,Unmapped,Other,{'bailable'}
+latin-american,1,,Unmapped,Other,{'latin-american'}
+carniv,1,,Unmapped,Other,{'carnival'}
+rio,1,,Unmapped,Other,{'rio'}
+cow,1,,Unmapped,Other,{'cow'}
+burt,1,,Unmapped,Other,{'burts'}
+ranchero,1,,Unmapped,Other,{'ranchero'}
+interest,1,,Unmapped,Other,{'interest'}
+latin/salsa,1,,Unmapped,Other,{'latin/salsa'}
+hectic,1,,Unmapped,Other,{'hectic'}
+pièc,1,,Unmapped,Other,{'pièce'}
+cold,1,,Unmapped,Other,{'cold'}
+weather,1,,Unmapped,Other,{'weather'}
+outsid,1,,Unmapped,Other,{'outside'}
+bite,1,,Unmapped,Other,{'bite'}
+winter,1,,Unmapped,Other,{'winter'}
+door,1,,Unmapped,Other,{'door'}
+rang,1,,Unmapped,Other,{'range'}
+eye,1,,Unmapped,Other,{'eyes'}
+inner,1,,Unmapped,Other,{'inner'}
+rubato,1,,Unmapped,Other,{'rubato'}
+quick,1,,Unmapped,Other,{'quick'}
+attack,1,,Unmapped,Other,{'attacks'}
+americana,1,,Unmapped,Other,{'americana'}
+climax,1,,Unmapped,Other,{'climax'}
+read,1,,Unmapped,Other,{'reading'}
+esqu,1,,Unmapped,Other,{'esque'}
+croaki,1,,Unmapped,Other,{'croaky'}
+found,1,,Unmapped,Other,{'found'}
+kit,1,,Unmapped,Other,{'kit'}
+sport,1,,Unmapped,Other,{'sport'}
+action,1,,Unmapped,Other,{'action'}
+distinct,1,,Unmapped,Other,{'distinctive'}
+rough,1,,Unmapped,Other,{'rough'}
+straightforward,1,,Unmapped,Other,{'straightforward'}
+punctuat,1,,Unmapped,Other,{'punctuated'}
+spars,1,,Unmapped,Other,{'sparsely'}
+distant,1,,Unmapped,Other,{'distant'}
+answer,1,,Unmapped,Other,{'answering'}
+frenet,1,,Unmapped,Other,{'frenetic'}
+split,1,,Unmapped,Other,{'split'}
+accordion-lik,1,,Unmapped,Other,{'accordion-like'}
+emphasi,1,,Unmapped,Other,{'emphasis'}
+motorway,1,,Unmapped,Other,{'motorway'}
+rough-look,1,,Unmapped,Other,{'rough-looking'}
+biker,1,,Unmapped,Other,{'bikers'}
+focu,1,,Unmapped,Other,{'focus'}
+task,1,,Unmapped,Other,{'tasks'}
+glassi,1,,Unmapped,Other,{'glassy'}
+creepi,1,,Unmapped,Other,{'creepy'}
+lumin,1,,Unmapped,Other,{'luminous'}
+baroque-era,1,,Unmapped,Other,{'baroque-era'}
+age,1,,Unmapped,Other,{'ages'}
+leisur,1,,Unmapped,Other,{'leisurely'}
+ambiti,1,,Unmapped,Other,{'ambitious'}
+march-lik,1,,Unmapped,Other,{'march-like'}
+villain,1,,Unmapped,Other,{'villainous'}
+militari,1,,Unmapped,Other,{'military'}
+chaotic,1,,Unmapped,Other,{'chaotic'}
+trip-hop,1,,Unmapped,Other,{'trip-hop'}
+psychedel,1,,Unmapped,Other,{'psychedelic'}
+ragga,1,,Unmapped,Other,{'raggae'}
+phaser,1,,Unmapped,Other,{'phaser'}
+drums/guitar,1,,Unmapped,Other,{'drums/guitar'}
+golden,1,,Unmapped,Other,{'golden'}
+era,1,,Unmapped,Other,{'era'}
+predominantli,1,,Unmapped,Other,{'predominantly'}
+somewhat,1,,Unmapped,Other,{'somewhat'}
+handclap,1,,Unmapped,Other,{'handclaps'}
+multipl,1,,Unmapped,Other,{'multiple'}
+sensual,1,,Unmapped,Other,{'sensual'}
+fm-style,1,,Unmapped,Other,{'fm-style'}
+design,1,,Unmapped,Other,{'design'}
+non-english,1,,Unmapped,Other,{'non-english'}
+popular,1,,Unmapped,Other,{'popular'}
+halo,1,,Unmapped,Other,{'halo'}
+lo-fi,1,,Unmapped,Other,{'lo-fi'}
+guess,1,,Unmapped,Other,{'guess'}
+secur,1,,Unmapped,Other,{'security'}
+folk-song,1,,Unmapped,Other,{'folk-song'}
+remain,1,,Unmapped,Other,{'remains'}
+entir,1,,Unmapped,Other,{'entire'}
+agit,1,,Unmapped,Other,{'agitated'}
+west,1,,Unmapped,Other,{'west'}
+coast,1,,Unmapped,Other,{'coast'}
+brief,1,,Unmapped,Other,{'brief'}
+uptempo,1,,Unmapped,Other,{'uptempo'}
+storytel,1,,Unmapped,Other,{'storytelling'}
+spirit,1,,Unmapped,Other,{'spirited'}
+quiver,1,,Unmapped,Other,{'quivering'}
+rueful,1,,Unmapped,Other,{'rueful'}
+finger-pick,1,,Unmapped,Other,{'finger-picking'}
+tv,1,,Unmapped,Other,{'tv'}
+campfir,1,,Unmapped,Other,{'campfire'}
+guitarist,1,,Unmapped,Other,{'guitarist'}
+ragtim,1,,Unmapped,Other,{'ragtime'}
+blusey,1,,Unmapped,Other,{'blusey'}
+whimsi,1,,Unmapped,Other,{'whimsy'}
+unseri,1,,Unmapped,Other,{'unserious'}
+off-beat,1,,Unmapped,Other,{'off-beat'}
+hihat,1,,Unmapped,Other,{'hihats'}
+sultri,1,,Unmapped,Other,{'sultry'}
+perki,1,,Unmapped,Other,{'perky'}
+folksi,1,,Unmapped,Other,{'folksy'}
+ditti,1,,Unmapped,Other,{'ditty'}
+narrat,1,,Unmapped,Other,{'narrating'}
+varieti,1,,Unmapped,Other,{'variety'}
+western-sound,1,,Unmapped,Other,{'western-sounding'}
+older,1,,Unmapped,Other,{'older'}
+cabaret,1,,Unmapped,Other,{'cabaret'}
+piano/voic,1,,Unmapped,Other,{'piano/voice'}
+sophist,1,,Unmapped,Other,{'sophisticated'}
+cuban,1,,Unmapped,Other,{'cuban'}
+bunch,1,,Unmapped,Other,{'bunch'}
+complement,1,,Unmapped,Other,{'complement'}
+drumbeat,1,,Unmapped,Other,{'drumbeat'}
+compliment,1,,Unmapped,Other,{'complimented'}
+bang,1,,Unmapped,Other,{'bangs'}
+spi,1,,Unmapped,Other,{'spy'}
+ostinato,1,,Unmapped,Other,{'ostinato'}
+cyclic,1,,Unmapped,Other,{'cyclic'}
+induc,1,,Unmapped,Other,{'inducing'}
+switch,1,,Unmapped,Other,{'switches'}
+artifici,1,,Unmapped,Other,{'artificial'}
+phase,1,,Unmapped,Other,{'phase'}
+self-contain,1,,Unmapped,Other,{'self-contained'}
+intrument,1,,Unmapped,Other,{'intrumental'}
+present,1,,Unmapped,Other,{'present'}
+shuffl,1,,Unmapped,Other,{'shuffling'}
+jungl,1,,Unmapped,Other,{'jungle'}
+forest,1,,Unmapped,Other,{'forest'}
+fauna,1,,Unmapped,Other,{'fauna'}
+floati,1,,Unmapped,Other,{'floaty'}
+retro-futurist,1,,Unmapped,Other,{'retro-futurist'}
+drench,1,,Unmapped,Other,{'drenched'}
+hint,1,,Unmapped,Other,{'hint'}
+acid,1,,Unmapped,Other,{'acid'}
+snare-rol,1,,Unmapped,Other,{'snare-roll'}
+triangl,1,,Unmapped,Other,{'triangle'}
+underground,1,,Unmapped,Other,{'underground'}
+stab,1,,Unmapped,Other,{'stabs'}
+low-fi,1,,Unmapped,Other,{'low-fi'}
+exot,1,,Unmapped,Other,{'exotic'}
+repet,1,,Unmapped,Other,{'repeted'}
+synth-i,1,,Unmapped,Other,{'synth-y'}
+art-pop,1,,Unmapped,Other,{'art-pop'}
+artsi,1,,Unmapped,Other,{'artsy'}
+plenti,1,,Unmapped,Other,{'plenty'}
+employ,1,,Unmapped,Other,{'employs'}
+worldbeat,1,,Unmapped,Other,{'worldbeat'}
+human,1,,Unmapped,Other,{'human'}
+cough,1,,Unmapped,Other,{'coughing'}
+beaten,1,,Unmapped,Other,{'beaten'}
+scienc,1,,Unmapped,Other,{'science'}
+fiction,1,,Unmapped,Other,{'fiction'}
+detect,1,,Unmapped,Other,{'detective'}
+arti,1,,Unmapped,Other,{'arty'}
+stoic,1,,Unmapped,Other,{'stoic'}
+across,1,,Unmapped,Other,{'across'}
+spectrum,1,,Unmapped,Other,{'spectrum'}
+constitut,1,,Unmapped,Other,{'constituting'}
+spanish-spoken,1,,Unmapped,Other,{'spanish-spoken'}
+suspect,1,,Unmapped,Other,{'suspects'}
+huski,1,,Unmapped,Other,{'husky'}
+drug,1,,Unmapped,Other,{'drugs'}
+moder,1,,Unmapped,Other,{'moderate'}
+harmless,1,,Unmapped,Other,{'harmless'}
+samey,1,,Unmapped,Other,{'samey'}
+far,1,,Unmapped,Other,{'far'}
+disney,1,,Unmapped,Other,{'disney'}
+land,1,,Unmapped,Other,{'land'}
+toy,1,,Unmapped,Other,{'toys'}
+nightdream,1,,Unmapped,Other,{'nightdreaming'}
+swingi,1,,Unmapped,Other,{'swingy'}
+phasi,1,,Unmapped,Other,{'phasy'}
+notic,1,,Unmapped,Other,{'noticeably'}
+birth,1,,Unmapped,Other,{'birth'}
+disco-funki,1,,Unmapped,Other,{'disco-funky'}
+trio,1,,Unmapped,Other,{'trio'}
+within,1,,Unmapped,Other,{'within'}
+thrill,1,,Unmapped,Other,{'thrilling'}
+seri,1,,Unmapped,Other,{'series'}
+built,1,,Unmapped,Other,{'built'}
+culmin,1,,Unmapped,Other,{'culminating'}
+gypsi,1,,Unmapped,Other,{'gypsy'}
+mediterranean,1,,Unmapped,Other,{'mediterranean'}
+unusu,1,,Unmapped,Other,{'unusual'}
+gothic,1,,Unmapped,Other,{'gothic'}
+neo-soul,1,,Unmapped,Other,{'neo-soul'}
+gipsi,1,,Unmapped,Other,{'gipsy'}
+vaporwav,1,,Unmapped,Other,{'vaporwave'}
+80s-style,1,,Unmapped,Other,{'80s-style'}
+radiat,1,,Unmapped,Other,{'radiates'}
+luminos,1,,Unmapped,Other,{'luminosity'}
+slow-build,1,,Unmapped,Other,{'slow-building'}
+puls,1,,Unmapped,Other,{'pulsing'}
+chirp,1,,Unmapped,Other,{'chirping'}
+bird,1,,Unmapped,Other,{'birds'}
+clear,1,,Unmapped,Other,{'clearness'}
+filmic,1,,Unmapped,Other,{'filmic'}
+uplifit,1,,Unmapped,Other,{'uplifiting'}
+electronic-heavi,1,,Unmapped,Other,{'electronic-heavy'}
+hypnot,1,,Unmapped,Other,{'hypnotic'}
+essenti,1,,Unmapped,Other,{'essential'}
+drone,1,,Unmapped,Other,{'droning'}
+sweep,1,,Unmapped,Other,{'sweeping'}
+engin,1,,Unmapped,Other,{'engine'}
+high-hat,1,,Unmapped,Other,{'high-hat'}
+windi,1,,Unmapped,Other,{'windy'}
+scari,1,,Unmapped,Other,{'scary'}
+dungeon,1,,Unmapped,Other,{'dungeons'}
+slimi,1,,Unmapped,Other,{'slimy'}
+skull,1,,Unmapped,Other,{'skulls'}
+sine,1,,Unmapped,Other,{'sine'}
+wave,1,,Unmapped,Other,{'wave'}
+oscil,1,,Unmapped,Other,{'oscillators'}
+unnerv,1,,Unmapped,Other,{'unnerving'}
+gloomi,1,,Unmapped,Other,{'gloomy'}
+murki,1,,Unmapped,Other,{'murky'}
+underwat,1,,Unmapped,Other,{'underwater'}
+panick,1,,Unmapped,Other,{'panicked'}
+board,1,,Unmapped,Other,{'board'}
+spaceship,1,,Unmapped,Other,{'spaceship'}
+bedroom,1,,Unmapped,Other,{'bedroom'}
+0,1,Era,Era,Other,{'00s'}
+50,1,Era,Era,Other,{'50s'}
+rythim,1,,Unmapped,Other,{'rythim'}
+funk-styl,1,,Unmapped,Other,{'funk-style'}
+neg,1,,Unmapped,Other,{'negative'}
+swele,1,,Unmapped,Other,{'sweling'}
+elicit,1,,Unmapped,Other,{'elicites'}
+ephemer,1,,Unmapped,Other,{'ephemeral'}
+melodramat,1,,Unmapped,Other,{'melodramatic'}
+introduct,1,,Unmapped,Other,{'introduction'}
+take,1,,Unmapped,Other,{'taking'}
+amongst,1,,Unmapped,Other,{'amongst'}
+venu,1,,Unmapped,Other,{'venue'}
+surpris,1,,Unmapped,Other,{'surprising'}
+:,1,,Unmapped,Other,{':'}
+somewher,1,,Unmapped,Other,{'somewhere'}
+outlook,1,,Unmapped,Other,{'outlook'}
+disturb,1,,Unmapped,Other,{'disturbing'}
+twisti,1,,Unmapped,Other,{'twisty'}
+comraderi,1,,Unmapped,Other,{'comradery'}
+knopfler,1,,Unmapped,Other,{'knopfler'}
+nouveau,1,,Unmapped,Other,{'nouveau'}
+bad,1,,Unmapped,Other,{'bad'}
+fusion,1,,Unmapped,Other,{'fusion'}
+life,1,,Unmapped,Other,{'life'}
+blue-grass,1,,Unmapped,Other,{'blue-grass'}
+defianc,1,,Unmapped,Other,{'defiance'}
+danger,1,,Unmapped,Other,{'danger'}
+mark,1,,Unmapped,Other,{'marked'}
+portugues,1,Language,Language,Other,{'portuguese'}
+urgenc,1,,Unmapped,Other,{'urgency'}
+slid,1,,Unmapped,Other,{'slid'}
+increas,1,,Unmapped,Other,{'increasing'}
+slighti,1,,Unmapped,Other,{'slighty'}
+despair,1,,Unmapped,Other,{'despair'}
+empow,1,,Unmapped,Other,{'empowering'}
+post-rock,1,,Unmapped,Other,{'post-rock'}
+dobro,1,,Unmapped,Other,{'dobro'}
+delight,1,,Unmapped,Other,{'delightful'}
+instruct,1,,Unmapped,Other,{'instruction'}
+hollow,1,,Unmapped,Other,{'hollow'}
+pain,1,,Unmapped,Other,{'painful'}
+positv,1,Mood,Mood,Mood,{'positve'}
+pub,1,,Unmapped,Other,{'pub'}
+crowd,1,,Unmapped,Other,{'crowd'}
+1990,1,Era,Era,Other,{'1990s'}
+clich,1,,Unmapped,Other,{'cliche'}
+tacki,1,,Unmapped,Other,{'tacky'}
+electrod,1,,Unmapped,Other,{'electrodance'}
+straight,1,,Unmapped,Other,{'straight'}
+sampler,1,,Unmapped,Other,{'sampler'}
+pointi,1,,Unmapped,Other,{'pointy'}
+heartsick,1,,Unmapped,Other,{'heartsick'}
+build-up,1,,Unmapped,Other,{'build-up'}
+sidechain,1,,Unmapped,Other,{'sidechained'}
+honki,1,,Unmapped,Other,{'honky'}
+tonk,1,,Unmapped,Other,{'tonk'}
+often,1,,Unmapped,Other,{'often'}
+dizzi,1,,Unmapped,Other,{'dizzy'}
+latin-inspir,1,Style,Genre/Style,Genre/Style,{'latin-inspired'}
+passion,1,,Unmapped,Other,{'passionate'}
+boogi,1,,Unmapped,Other,{'boogie'}
+roomi,1,,Unmapped,Other,{'roomy'}
+jingl,1,,Unmapped,Other,{'jingle'}
+christmassi,1,,Unmapped,Other,{'christmassy'}
+poetic,1,,Unmapped,Other,{'poetic'}
+,,,Unmapped,Other,
+,,,Unmapped,Other,
