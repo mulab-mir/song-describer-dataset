@@ -248,7 +248,7 @@
 
 2. **How can the owner/curator/manager of the dataset be contacted (e.g. email address)?**
 
-	Queries about the datasets can be submitted by opening an issue on GitHub or emailing the dataset curator (i.manco@qmul.ac.uk). 
+	Queries about the datasets can be submitted by opening an issue on GitHub or emailing the dataset curators (i.manco@qmul.ac.uk, benno.weck01@estudiant.upf.edu). 
 
 3. **Is there an erratum?** If so, please provide a link or other access point.
 
