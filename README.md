@@ -55,7 +55,7 @@ The dataset is available to download from [Zenodo](https://doi.org/10.5281/zenod
 wget -P data https://zenodo.org/record/10072001/files/song_describer.csv https://zenodo.org/record/10072001/files/audio.zip
 unzip data/audio.zip -d data/audio
 ```
-A download script is also available [here](download.sh).
+A download script is also available [here](scripts/download.sh).
 
 ## Code setup
 To use this code, we recommend creating a new python3 virtual environment:
