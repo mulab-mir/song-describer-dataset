@@ -114,7 +114,7 @@
 
 7. **Were any ethical review processes conducted (e.g. by an institutional review board)?** If so, please provide a description of these review processes, including the outcomes, as well as a link or other access point to any supporting documentation.
 
-	*The project was approved by the Queen Mary Ethics of Research Committee (QMERC reference number: QMERC22.062). As part of the review, the following documentation was provided: a participant information sheet, a consent form, and an application form with detailed questions about the data collection procedure and potential risks. These were assessed by the committee through the low-risk approval route, according to guidelines the outlined on the [website](http://www.jrmo.org.uk/performing-research/conducting-research-with-human-participants-outside-the-nhs/applications-and-approval/).*
+	*The project was approved by the Queen Mary Ethics of Research Committee (QMERC reference number: QMERC22.062). As part of the review, the following documentation was provided: a participant information sheet, a consent form, and an application form with detailed questions about the data collection procedure and potential risks. These were assessed by the committee through the low-risk approval route, according to the guidelines outlined on the [website](http://www.jrmo.org.uk/performing-research/conducting-research-with-human-participants-outside-the-nhs/applications-and-approval/).*
 
 8. **Does the dataset relate to people?** If not, you may skip the remainder of the questions in this section.
 
@@ -174,7 +174,7 @@
 
 3. **Is the software used to preprocess/clean/label the instances available?** If so, please provide a link or other access point.
 
-	*We release the evaluations and code in an accompanying GitHub repository.*
+	*We release code to preprocess, clean and analyse the data in an accompanying GitHub repository.*
 
 4. **Any other comments?**
 
@@ -215,11 +215,11 @@
 
 2. **How will the dataset will be distributed (e.g. tarball on website, API, GitHub)?** Does the dataset have a digital object identifier (DOI)?
 
-	*The dataset will be distributed via Zenodo (DOI: [todo]).*
+	*The dataset will be distributed via Zenodo (DOI: [10.5281/zenodo.10072001](https://doi.org/10.5281/zenodo.10072001)).*
 
 3. **When will the dataset be distributed?**
 
-	*Your Answer Here*
+	The dataset will be available from 17th November 2023.
 
 4. **Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** If so, please describe this license and/or ToU, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms or ToU, as well as any fees associated with these restrictions.
 
@@ -248,7 +248,7 @@
 
 2. **How can the owner/curator/manager of the dataset be contacted (e.g. email address)?**
 
-	*Ilaria Manco at i.manco@qmul.ac.uk*
+	Queries about the datasets can be submitted by opening an issue on GitHub or emailing the dataset curators (i.manco@qmul.ac.uk, benno.weck01@estudiant.upf.edu). 
 
 3. **Is there an erratum?** If so, please provide a link or other access point.
 
@@ -256,7 +256,7 @@
 
 4. **Will the dataset be updated (e.g. to correct labeling errors, add new instances, delete instances)?** If so, please describe how often, by whom, and how updates will be communicated to users (e.g. mailing list, GitHub)?
 
-	*The dataset will be updated to correct errors if necessary. Additionally, it may be updated with new instances if further annotations are provided by volunteers through our data collection platform, which remains open for contributions. Future versions of the dataset will be released via Zenodo and updates will be communicated via GitHub and Zenodo.*
+	*The dataset will be updated to correct errors if necessary. Additionally, it may be updated with new instances if further annotations are provided by volunteers through our data collection platform. If created, future versions of the dataset will be released via Zenodo and updates will be communicated via both GitHub and Zenodo.*
 
 5. **If the dataset relates to people, are there applicable limits on the retention of the data associated with the instances (e.g. were individuals in question told that their data would be retained for a fixed period of time and then deleted)?** If so, please describe these limits and explain how they will be enforced.
 
