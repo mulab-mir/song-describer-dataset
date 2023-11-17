@@ -49,14 +49,13 @@ SDD contains ~1.1k captions for 706 permissively licensed music recordings. It i
 
 ## Downloading the dataset
 
-The dataset is available to download from [Zenodo]():
+The dataset is available to download from [Zenodo](https://doi.org/10.5281/zenodo.10072001):
 
 ```bash
-wget [todo]
-unzip [todo]
-cd [todo]
+wget -P data https://zenodo.org/record/10072001/files/song_describer.csv https://zenodo.org/record/10072001/files/audio.zip
+unzip data/audio.zip -d data/audio
 ```
-A download script is also available [here](download.sh).
+A download script is also available [here](scripts/download.sh).
 
 ## Code setup
 To use this code, we recommend creating a new python3 virtual environment:
@@ -107,7 +106,7 @@ If you use the dataset or the code in this repo, please consider citing our work
 ```
 
 ## License
-This repository is released under the MIT License. Please see the [LICENSE](LICENSE) file for more details. The dataset is released under the [CC BY-SA 4.0 license]().
+This repository is released under the MIT License. Please see the [LICENSE](LICENSE) file for more details. The dataset is released under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Contact
 If you have any questions, please get in touch: [i.manco@qmul.ac.uk](i.manco@qmul.ac.uk).
