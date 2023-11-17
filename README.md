@@ -2,12 +2,12 @@
 
 # The Song Describer Dataset: a Corpus of Audio Captions for Music-and-Language Evaluation
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-000-<COLOR>.svg)](https://arxiv.org/abs/000)
-![Zenodo doi badge](https://img.shields.io/badge/DOI-000%2Fzenodo.000-blue.svg)
+[![arXiv](https://img.shields.io/badge/arXiv-2311.10057-<COLOR>.svg)](https://arxiv.org/abs/2311.10057)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10072001.svg)](https://doi.org/10.5281/zenodo.10072001)
 [![Huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/mulab-mir/song-describer)
 
 [Ilaria Manco](https://ilariamanco.com/)\*<sup>1,2</sup>,
-[Benno Weck]()\*<sup>3</sup>, 
+[Benno Weck](https://www.upf.edu/web/mtg/about/team-members/-/asset_publisher/l2XuyhfmWvQ5/content/weck-benno/maximized)\*<sup>3</sup>, 
 [Seungheon Doh](https://seungheondoh.github.io/)<sup>4</sup>, 
 [Minz Won](https://minzwon.github.io/)<sup>5</sup>,
 [Yixiao Zhang](http://www.eecs.qmul.ac.uk/~yz007/)<sup>1</sup>,
@@ -26,7 +26,7 @@
 * equal contribution
 
 This repository contains starter code for the Song Describer Dataset (SDD).
-* [Paper](https://arxiv.org/abs/???) (accepted to the [ML for Audio workshop](https://mlforaudioworkshop.com/) @ NeurIPS 2023) 
+* [Paper](https://arxiv.org/abs/2311.10057) (accepted to the [ML for Audio workshop](https://mlforaudioworkshop.com/) @ NeurIPS 2023) 
 * [Zenodo]()
 * [Datasheet](datasheet.md)
 * [Huggingface]()
