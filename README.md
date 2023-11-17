@@ -74,20 +74,14 @@ pip install -r requirements.txt
 ```
 
 ## Reproducing the analysis in the paper
-The overview statistics presented in the paper can be reproduced via the code in the [`dataset_stats.ipynb`](dataset_stats.ipynb) notebook.
+The overview statistics presented in the paper can be reproduced via the code in the [`dataset_stats.ipynb`](exploratory_analysis/dataset_stats.ipynb) notebook. Further exploratory analysis of the data can be found in the [`data_exploration.ipynb`](exploratory_analysis/data_exploration.ipynb) notebook
 
 ## Using the dataset
 ### PyTorch
 [Coming soon]
 
 ### HuggingFace
-
-```python
-!pip install datasets
-from datasets import load_dataset
-
-ds = load_dataset("mulab-mir/song-describer")
-```
+[coming soon]
 
 ### Benchmarking M&L models with SDD
 
