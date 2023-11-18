@@ -29,7 +29,7 @@ This repository contains starter code for the Song Describer Dataset (SDD).
 * [Paper](https://arxiv.org/abs/2311.10057) (accepted to the [ML for Audio workshop](https://mlforaudioworkshop.com/) @ NeurIPS 2023) 
 * [Zenodo]()
 * [Datasheet](datasheet.md)
-* [Huggingface]()
+* [Hugging Face]()
 
 ## Dataset overview
 <div align="center">
@@ -80,7 +80,7 @@ The overview statistics presented in the paper can be reproduced via the code in
 ### PyTorch
 [Coming soon]
 
-### HuggingFace
+### Hugging Face
 [coming soon]
 
 ### Benchmarking M&L models with SDD
