@@ -34,7 +34,7 @@ This repository contains starter code for the Song Describer Dataset (SDD).
 ## Dataset overview
 <div align="center">
 
-https://github.com/mulab-mir/song-describer-dataset/assets/32579635/64c89958-0c59-4ed3-8de4-420cb9d1ac4c
+https://github.com/mulab-mir/song-describer-dataset/assets/13520622/347133af-dac0-4d40-92b6-c2fae6742927
   
 *"A retro-futurist drum machine groove drenched in bubbly synthetic sound effects and a hint of an acid bassline."*
   
