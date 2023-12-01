@@ -37,6 +37,10 @@ This repository contains starter code for the Song Describer Dataset (SDD).
 https://github.com/mulab-mir/song-describer-dataset/assets/13520622/347133af-dac0-4d40-92b6-c2fae6742927
   
 *"A retro-futurist drum machine groove drenched in bubbly synthetic sound effects and a hint of an acid bassline."*
+
+*"Elegant and sophisticated Latin jazz piece with a Cuban base and a whispered melodic female voice."*
+
+*"Calm sitar and Indian tabla with dramatic synthetic strings background."*
   
 </div>
 
