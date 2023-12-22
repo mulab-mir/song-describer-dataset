@@ -29,7 +29,7 @@ This repository contains starter code for the Song Describer Dataset (SDD).
 * [Paper](https://arxiv.org/abs/2311.10057) (accepted to the [ML for Audio workshop](https://mlforaudioworkshop.com/) @ NeurIPS 2023) 
 * [Zenodo](https://doi.org/10.5281/zenodo.10072001)
 * [Datasheet](docs/datasheet.md)
-* [Huggingface]()
+* [Huggingface]() ([HF demo](https://huggingface.co/spaces/renumics/spotlight-song-describer-demo) built by [@Renumics](https://github.com/Renumics))
 
 ## Dataset overview
 <div align="center">
