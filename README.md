@@ -27,16 +27,20 @@
 
 This repository contains starter code for the Song Describer Dataset (SDD).
 * [Paper](https://arxiv.org/abs/2311.10057) (accepted to the [ML for Audio workshop](https://mlforaudioworkshop.com/) @ NeurIPS 2023) 
-* [Zenodo]()
-* [Datasheet](datasheet.md)
-* [Hugging Face]()
+* [Zenodo](https://doi.org/10.5281/zenodo.10072001)
+* [Datasheet](docs/datasheet.md)
+* [Hugging Face]() ([HF demo](https://huggingface.co/spaces/renumics/spotlight-song-describer-demo) built by [@Renumics](https://github.com/Renumics))
 
 ## Dataset overview
 <div align="center">
 
-https://github.com/mulab-mir/song-describer-dataset/assets/32579635/64c89958-0c59-4ed3-8de4-420cb9d1ac4c
+https://github.com/mulab-mir/song-describer-dataset/assets/13520622/347133af-dac0-4d40-92b6-c2fae6742927
   
 *"A retro-futurist drum machine groove drenched in bubbly synthetic sound effects and a hint of an acid bassline."*
+
+*"Elegant and sophisticated Latin jazz piece with a Cuban base and a whispered melodic female voice."*
+
+*"Calm sitar and Indian tabla with dramatic synthetic strings background."*
   
 </div>
 
